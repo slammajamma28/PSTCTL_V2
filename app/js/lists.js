@@ -4194,7 +4194,7 @@ var lists = [{
         desc: "Use the special class at least once.",
         imag: "http://www.playstationtrophies.org/images/trophies/2870/a01.jpg"
     },{
-        game: "Shovel Knight: Treasue Trove",
+        game: "Shovel Knight: Treasure Trove",
         name: "Decked Out",
         desc: "Purchase or unlock all relics, equipment, and upgrades.",
         imag: "http://www.playstationtrophies.org/images/trophies/3440/274.jpg"
