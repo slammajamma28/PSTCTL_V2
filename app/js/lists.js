@@ -1749,7 +1749,7 @@ var lists = [{
         desc: "Obtain the decoration given to an officer who has demonstrated remarkable skill as a leader through mastery of the art of command.",
         imag: "http://www.playstationtrophies.org/images/trophies/416/e0f.jpg"
     },{
-        game: "Virtue's Last Reward",
+        game: "Zero Escape: Virtue's Last Reward",
         name: "A Certain Point of View",
         desc: "Caught a glimpse of another time.",
         imag: "http://www.playstationtrophies.org/images/trophies/1796/CA1.jpg"
@@ -3154,7 +3154,7 @@ var lists = [{
         desc: "Easy - Finish the game in Easy Mode",
         imag: "http://www.playstationtrophies.org/images/trophies/214/43.jpg"
     },{
-        game: "Virtue's Last Reward",
+        game: "Zero Escape: Virtue's Last Reward",
         name: "A Consumate Collection",
         desc: "Found ALL the files!",
         imag: "http://www.playstationtrophies.org/images/trophies/1796/3EE.jpg"
@@ -4194,7 +4194,7 @@ var lists = [{
         desc: "Use the special class at least once.",
         imag: "http://www.playstationtrophies.org/images/trophies/2870/a01.jpg"
     },{
-        game: "Shovel Knight",
+        game: "Shovel Knight: Treasue Trove",
         name: "Decked Out",
         desc: "Purchase or unlock all relics, equipment, and upgrades.",
         imag: "http://www.playstationtrophies.org/images/trophies/3440/274.jpg"
@@ -7254,7 +7254,7 @@ var lists = [{
         desc: "Find 60 treasures",
         imag: "http://www.playstationtrophies.org/images/trophies/373/05.jpg"
     },{
-        game: "Virtue's Last Reward",
+        game: "Zero Escape: Virtue's Last Reward",
         name: "An Eidetic Experience",
         desc: "Found a file.",
         imag: "http://www.playstationtrophies.org/images/trophies/1773/FEE.jpg"
@@ -8754,7 +8754,7 @@ var lists = [{
         desc: "Nobody survived until dawn",
         imag: "http://www.playstationtrophies.org/images/trophies/1672/512.jpg"
     },{
-        game: "Virtue's Last Reward",
+        game: "Zero Escape: Virtue's Last Reward",
         name: "Fire and Ice",
         desc: "Saw the end. Or maybe the beginning?",
         imag: "http://www.playstationtrophies.org/images/trophies/1773/701.jpg"
@@ -9964,7 +9964,7 @@ var lists = [{
         desc: "Completed Episode 5: \"No Going Back\"",
         imag: "http://www.playstationtrophies.org/images/trophies/2352/40.jpg"
     },{
-        game: "Virtue's Last Reward",
+        game: "Zero Escape: Virtue's Last Reward",
         name: "Tears in the Rain",
         desc: "Saw Luna's ending.",
         imag: "http://www.playstationtrophies.org/images/trophies/1796/E64.jpg"
@@ -11554,7 +11554,7 @@ var lists = [{
         desc: "Surrender when given the chance.",
         imag: "http://www.playstationtrophies.org/images/trophies/1971/B86.jpg"
     },{
-        game: "Shovel Knight",
+        game: "Shovel Knight: Treasure Trove",
         name: "On a Diet",
         desc: "Finish a level without eating any food.",
         imag: "http://www.playstationtrophies.org/images/trophies/3440/9ab.jpg"
@@ -11759,7 +11759,7 @@ var lists = [{
         desc: "Destroy ten enemy robots that have been disabled with an EMP emitter.",
         imag: "https://www.playstationtrophies.org/images/trophies/386/32.jpg"
     },{
-        game: "Virtue's Last Reward",
+        game: "Zero Escape: Virtue's Last Reward",
         name: "Tears in the Rain",
         desc: "Saw Luna's ending.",
         imag: "https://www.playstationtrophies.org/images/trophies/1796/E64.jpg"
