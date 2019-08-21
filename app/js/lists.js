@@ -8933,6 +8933,31 @@ var lists = [{
         name: "Reveal()",
         desc: "Inspect all completed Function Files.",
         imag: "http://www.playstationtrophies.org/images/trophies/2113/cdb.jpg"
+    },{
+        game: "2064: Read Only Memories",
+        name: "Put The Thing in the Doohickey",
+        desc: "Puzzle your first puzzle",
+        imag: "https://www.playstationtrophies.org/images/trophies/5449/00c.jpg"
+    },{
+        game: "Crash Bandicoot",
+        name: "I See London, I See France",
+        desc: "Die.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5342/8d2.jpg"
+    },{
+        game: "Marvel's Spider-Man",
+        name: "Shock and Awe",
+        desc: "Defeat Shocker",
+        imag: "https://www.playstationtrophies.org/images/trophies/4712/d8e.jpg"
+    },{
+        game: "My Name is Mayo",
+        name: "Crème a la Mayo",
+        desc: "Tap it wild and free. (Hit this 125 times)",
+        imag: "https://www.playstationtrophies.org/images/trophies/5212/815.jpg"
+    },{
+        game: "Uncharted: The Lost Legacy",
+        name: "Fingersmith",
+        desc: "Pick a three pin lock in under 15 seconds",
+        imag: "https://www.playstationtrophies.org/images/trophies/5325/015.jpg"
     }]
 },{
     listName: "Sylar's Super List",
