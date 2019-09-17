@@ -3365,6 +3365,161 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/2388/0a8.jpg"
     }]
 },{
+    listName: "Easty' Wine, Cheese and Video Games",
+    banner: "https://i.imgur.com/yBblxfX.png",
+    award: "https://i.imgur.com/fiyRBoY.png",
+    trophies: [{
+        game: "11-11: Memories Retold",
+        name: "Goaaaal",
+        desc: "Score with the hidden football in Paris",
+        imag: "https://www.playstationtrophies.org/images/trophies/7314/223.jpg"
+    },{
+	game: "A Plague Tale: Innocence",
+        name: "Not a toy anymore",
+        desc: "Fully upgrade the sling",
+        imag: "https://www.playstationtrophies.org/images/trophies/5985/a6f.jpg"
+    },{
+	game: "A Way Out",
+        name: "No Cheating",
+        desc: "You exposed some infidelity.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5952/5b7.jpg"
+    },{
+        game: "American Fugitive",
+        name: "Two Wrongs Make A Right",
+        desc: "Complete 'Two Wrongs Make A Right.'",
+        imag: "https://www.playstationtrophies.org/images/trophies/8572/70c.jpg"
+    },{
+        game: "Assassin's Creed Odyssey",
+        name: "Aphrodite's Embrace",
+        desc: "Spend the night with another character.",
+        imag: "https://www.playstationtrophies.org/images/trophies/7475/711.jpg"
+    },{
+        game: "Chaos on Deponia",
+        name: "Blow job",
+        desc: "Actually, that would have been Toni's job...",
+        imag: "https://www.playstationtrophies.org/images/trophies/6667/6d3.jpg"
+    },{
+        game: "Control",
+        name: "Polaris",
+        desc: "Complete Mission 9",
+        imag: "https://www.playstationtrophies.org/images/trophies/7523/852.jpg"
+    },{
+        game: "Days Gone",
+        name: "It's Getting Cold Outside",
+        desc: "Reconnect with what you lost",
+        imag: "https://www.playstationtrophies.org/images/trophies/4709/b65.jpg"
+    },{
+		game: "Demetrios: The BIG Cynical Adventure",
+        name: "Lick that!",
+        desc: "Order Sandra to lick the statue",
+        imag: "https://www.playstationtrophies.org/images/trophies/6127/10a.jpg"
+    },{
+        game: "Detroit: Become Human",
+        name: "THESE ARE OUR STORIES",
+        desc: "Spend 20,000 bonus points",
+        imag: "https://www.playstationtrophies.org/images/trophies/4082/acd.jpg"
+    },{
+        game: "Dishonored: Death of the Outsider",
+        name: "Deicide",
+        desc: "Kill the Outsider",
+        imag: "https://www.playstationtrophies.org/images/trophies/5969/8ba.jpg"
+    },{
+        game: "Erica",
+        name: "I See Dead People",
+        desc: "Find all of the corpses in the game, and finish.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6598/dd9.jpg"
+    },{
+        game: "Far Cry 5",
+        name: "Blissful",
+        desc: "Save the Marshal from the Bliss (Solo Campaign only).",
+        imag: "https://www.playstationtrophies.org/images/trophies/5857/1d9.jpg"
+    },{
+        game: "Final Fantasy IX",
+        name: "Beach Bum",
+        desc: "Visit every beach in Gaia.",
+        imag: "https://www.playstationtrophies.org/images/trophies/553/cdb.jpg"
+    },{
+        game: "God of War (2018)",
+        name: "Last Wish",
+        desc: "Spread the ashes",
+        imag: "https://www.playstationtrophies.org/images/trophies/4708/e20.jpg"
+    },{
+        game: "Her Majesty's SPIFFING: The Empire Staggers Back",
+        name: "Cheese sir, I want some more",
+        desc: "Acquire a second block of cheese",
+        imag: "https://www.playstationtrophies.org/images/trophies/4938/021.jpg"
+    },{
+        game: "Hitman 2",
+        name: "Event Planner",
+        desc: "Select a Starting Location and use an Agency Pickup to smuggle an item into Miami.",
+        imag: "https://www.playstationtrophies.org/images/trophies/7497/aea.jpg"
+    },{
+        game: "Horizon Zero Dawn: The Frozen Wilds",
+        name: "Conquered the Mountain",
+        desc: "Drove out the threat within the mountain.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3726/084.jpg"
+    },{
+        game: "Leisure Suit Larry: Wet Dreams Don't Dry",
+        name: "Grab her by the pixel",
+        desc: "Meet the president.",
+        imag: "https://www.playstationtrophies.org/images/trophies/8735/73d.jpg"
+    },{
+        game: "Life is Strange 2",
+        name: "Adrift",
+        desc: "Finish Episode 3",
+        imag: "https://www.playstationtrophies.org/images/trophies/7565/066.jpg"
+    },{
+        game: "Little Nightmares",
+        name: "Rascal",
+        desc: "Little vandal, little beast, The Maw will punish you at the feast.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4885/fac.jpg"
+    },{
+        game: "Max: The Curse of Brotherhood",
+        name: "What's That Smell?",
+        desc: "You lit 25 enemies on fire. Oh the things one does for brotherly love.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6380/616.jpg"
+    },{
+        game: "Metro Exodus",
+        name: "Gor'ko!",
+        desc: "Attend the wedding on the SUMMER level.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5959/cf1.jpg"
+    },{
+        game: "Prey",
+        name: "Push the Fat Guy",
+        desc: "You killed Alex.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4699/a9d.jpg"
+    },{
+        game: "Red Dead Redemption 2",
+        name: "Redemption (r)",
+        desc: "Complete 'Red Dead Redemption'.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5152/c22.jpg"
+    },{
+        game: "RiME",
+        name: "To let go",
+        desc: "Accept things as they are.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2268/9db.jpg"
+    },{
+        game: "Shadow of the Tomb Raider",
+        name: "Como Te Llama",
+        desc: "Pet 5 llamas",
+        imag: "https://www.playstationtrophies.org/images/trophies/7122/dd5.jpg"
+    },{
+        game: "The Walking Dead: The Final Season",
+        name: "Did you lick it?",
+        desc: "Remembered the good times.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6136/43a.jpg"
+    },{
+        game: "Vampyr",
+        name: "Unlife is strange",
+        desc: "Save this poor plant with water",
+        imag: "https://www.playstationtrophies.org/images/trophies/3735/6ea.jpg"
+    },{
+        game: "Wolfenstein II: The New Colossus",
+        name: "All the Gains!",
+        desc: "Get a new body",
+        imag: "https://www.playstationtrophies.org/images/trophies/5961/b9f.jpg"
+    }]
+},{
     listName: "Fletch's ''Valar Morghulis''",
     banner: "http://www.playstationtrophies.org/images/news/cl_banner_fletch.png",
     award: "http://www.playstationtrophies.org/forum/images/awards/cl_fletchar64.png",
