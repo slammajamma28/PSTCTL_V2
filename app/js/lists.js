@@ -610,7 +610,7 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/5681/c81.jpg"
     },{
         game: "Deus Ex: Mankind Divided",
-        name: "Ghost (de)",
+        name: "Ghost (md)",
         desc: "Cross enemy territory like a ghost, raising no hostile reaction from anyone.",
         imag: "https://www.playstationtrophies.org/images/trophies/2308/985.jpg"
     },{
@@ -3409,7 +3409,7 @@ var lists = [{
         desc: "Reconnect with what you lost",
         imag: "https://www.playstationtrophies.org/images/trophies/4709/b65.jpg"
     },{
-		game: "Demetrios: The BIG Cynical Adventure",
+	game: "Demetrios: The BIG Cynical Adventure",
         name: "Lick that!",
         desc: "Order Sandra to lick the statue",
         imag: "https://www.playstationtrophies.org/images/trophies/6127/10a.jpg"
@@ -8560,6 +8560,161 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/2351/d44.jpg"
     }]
 },{
+    listName: "Sellers' Crash When List",
+    banner: "https://i.imgur.com/vSkjolS.gif",
+    award: "https://i.imgur.com/4CFtVDV.png",
+    trophies: [{
+        game: "Aragami",
+        name: "Up and Down",
+        desc: "Perform a Ceiling Kill.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5055/23e.jpg"
+    },{
+        game: "Bloodborne",
+        name: "Father Gascoigne",
+        desc: "Defeat the beast that once was Father Gascoigne.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2840/f17.jpg"
+    },{
+        game: "Borderlands 3",
+        name: "Florida Man",
+        desc: "Down yourself by grenade or explosion.",
+        imag: "https://www.playstationtrophies.org/images/trophies/8441/6eb.jpg"
+    },{
+        game: "Crash Bandicoot",
+        name: "Feeeed Meeeee!",
+        desc: "Die.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5342/62c.jpg"
+    },{
+        game: "Crash Bandicoot 2: Cortex Strikes Back",
+        name: "Buzz Off!",
+        desc: "Die as Crash.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5957/492.jpg"
+    },{
+        game: "Crash Bandicoot: Warped",
+        name: "A Nefarious Trophy",
+        desc: "Defeat N. Tropy.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5958/e48.jpg"
+    },{
+        game: "Crash Team Racing: Nitro-Fueled",
+        name: "Unstoppable (ctr)",
+        desc: "Sustain your boost for a whole lap.",
+        imag: "https://www.playstationtrophies.org/images/trophies/8275/f75.jpg"
+    },{
+        game: "Dark Souls III",
+        name: "Pontiff Sulyvahn",
+        desc: "Defeat Pontiff Sulyvahn.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3720/0a1.jpg"
+    },{
+        game: "Deus Ex: Mankind Divided",
+        name: "Ghost (md)",
+        desc: "Cross enemy territory like a ghost, raising no hostile reaction from anyone.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2308/985.jpg"
+    },{
+        game: "Devil May Cry 5",
+        name: "Seriously Stylish Slaying!",
+        desc: "Perform a Stylish Rank SSS combo.",
+        imag: "https://www.playstationtrophies.org/images/trophies/7511/bc4.jpg"
+    },{
+        game: "DOOM",
+        name: "Up Close and Personal",
+        desc: "Kill 50 enemies using the Chainsaw",
+        imag: "https://www.playstationtrophies.org/images/trophies/1237/de1.jpg"
+    },{
+        game: "Fallout 4",
+        name: "Prankster's Return",
+        desc: "Placed A Grenade Or Mine While Pickpocketing",
+        imag: "http://www.playstationtrophies.org/images/trophies/2430/896.jpg"
+    },{
+        game: "Final Fantasy IX",
+        name: "The One Ring",
+        desc: "Obtain Madain's Ring via mining.",
+        imag: "https://www.playstationtrophies.org/images/trophies/553/c59.jpg"
+    },{
+        game: "God of War (2018)",
+        name: "Dragon Slayer (g)",
+        desc: "Defeat the Dragon of the Mountain",
+        imag: "https://www.playstationtrophies.org/images/trophies/4708/671.jpg"
+    },{
+        game: "Horizon Zero Dawn",
+        name: "Stealth killed 10 machines",
+        desc: "Performed a stealth kill on 10 machines.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3726/b71.jpg"
+    },{
+        game: "Mark of the Ninja: Remastered",
+        name: "The Dark Project",
+        desc: "Get the Undetected bonus 10 times in one level.",
+        imag: "https://www.playstationtrophies.org/images/trophies/7957/c96.jpg"
+    },{
+        game: "Marvel's Spider-Man",
+        name: "Arachnophobia",
+        desc: "Perform 75 Stealth Takedowns",
+        imag: "https://www.playstationtrophies.org/images/trophies/4712/815.jpg"
+    },{
+        game: "Metal Gear Solid V: The Phantom Pain",
+        name: "Interrogation",
+        desc: "Interrogate an enemy soldier.",
+        imag: "http://www.playstationtrophies.org/images/trophies/1704/05b.jpg"
+    },{
+        game: "Metro: Last Light",
+        name: "Invisible Intruder",
+        desc: "Complete the SEPARATION level without killing or raising alarm.",
+        imag: "http://www.playstationtrophies.org/images/trophies/2939/13.png"
+    },{
+        game: "Middle-Earth: Shadow of Mordor",
+        name: "Legend of Shadow",
+        desc: "Complete a Dagger Mission and begin growing the legend of Acharn.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2378/65f.jpg"
+    },{
+        game: "NieR: Automata",
+        name: "Ruler of the Skies",
+        desc: "255 enemies destroyed using a flight unit.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4086/086.jpg"
+    },{
+		game: "Nioh",
+        name: "Twilight Walker",
+        desc: "Complete your first Twilight Mission",
+        imag: "https://www.playstationtrophies.org/images/trophies/4211/cba.jpg"
+    },{
+        game: "Oddworld: Abe's Oddysee - New 'n' Tasty",
+        name: "Speed of the Mudanchee",
+        desc: "Run from a Scrab for 25 meters and survive",
+        imag: "https://www.playstationtrophies.org/images/trophies/902/890.jpg"
+    },{
+        game: "Ratchet & Clank (2016)",
+        name: "That Sinking Feeling",
+        desc: "Knock a constructobot into the quicksand on Aridia.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2842/041.jpg"
+    },{
+        game: "Resident Evil 2",
+        name: "Bon Appétit",
+        desc: "Shoot the grenade you fed to an enemy.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6014/25b.jpg"
+    },{
+        game: "Spyro the Dragon",
+        name: "Comin' Through!",
+        desc: "Charge through 4 Armored Druids near the start of Magic Crafters",
+        imag: "https://www.playstationtrophies.org/images/trophies/7210/aa4.jpg"
+    },{
+        game: "Spyro 2: Ripto's Rage",
+        name: "Exterminate",
+        desc: "Defeat every robot in Hurricos",
+        imag: "https://www.playstationtrophies.org/images/trophies/7972/1e1.jpg"
+    },{
+        game: "Spyro 3: Year of the Dragon",
+        name: "Twin Dragon Destruction",
+        desc: "Fireworks Factory: Defeat Twin Dragons (Boss)",
+        imag: "https://www.playstationtrophies.org/images/trophies/7973/a8e.jpg"
+    },{
+        game: "Uncharted: The Lost Legacy",
+        name: "Frazer. Chloe Frazer",
+        desc: "Defeat 5 consecutive enemies with the silenced pistol without being detected",
+        imag: "https://www.playstationtrophies.org/images/trophies/5325/dc8.jpg"
+    },{
+        game: "Volume",
+        name: "Hidden in the shadow of Moses",
+        desc: "Hide in 50 lockers in the core levels",
+        imag: "https://www.playstationtrophies.org/images/trophies/2351/9b3.jpg"
+    }]
+},{
     listName: "Sellers' Sneaky Souls Collection",
     banner: "http://i.imgur.com/RScmi7U.png",
     award: "http://i.imgur.com/Y6ZOxb2.jpg",
@@ -8610,7 +8765,7 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/150/11.jpg"
     },{
         game: "Deus Ex: Human Revolution",
-        name: "Ghost (de)",
+        name: "Ghost (hr)",
         desc: "You made it through an entire hostile area without so much as a squeak.",
         imag: "http://www.playstationtrophies.org/images/trophies/2341/887.jpg"
     },{
@@ -9145,7 +9300,7 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/2008/AA8.jpg"
     },{
         game: "Borderlands 2",
-        name: "Dragon Slayer",
+        name: "Dragon Slayer (b)",
         desc: "Completed the mission \"Best Minion Ever\"",
         imag: "http://www.playstationtrophies.org/images/trophies/1145/7E2.jpg"
     },{
