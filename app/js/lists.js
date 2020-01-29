@@ -815,6 +815,256 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/4673/965.jpg"
     }]
 },{
+    listName: "Build a Custom List v1.0",
+    banner: "https://i.imgur.com/MI1YvoZ.jpg",
+    award: "https://www.playstationtrophies.org/forum/images/awards/bacl64.png",
+    trophies: [{
+        game: "Assassin's Creed Syndicate",
+        name: "Cerevisaphile",
+        desc: "Sample every beer brand in London.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3634/fc7.jpg"
+    },{
+    	game: "Assassin's Creed Syndicate",
+        name: "No Ticket",
+        desc: "Kick fifty enemies off of trains.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3634/646.jpg"
+    },{
+    	game: "Assassin's Creed Syndicate",
+        name: "You Wouldn't Steal a Policeman's Helmet",
+        desc: "Hijack twenty police vehicles.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3634/751.jpg"
+    },{
+    	game: "Goat Simulator",
+        name: "Goats 'n' Stuff",
+        desc: "Hold your own concert",
+        imag: "https://www.playstationtrophies.org/images/trophies/3795/555.jpg"
+    },{
+    	game: "Goat Simulator",
+        name: "Is that a goat?",
+        desc: "Lick the rollercoaster with 6 batteries attached",
+        imag: "https://www.playstationtrophies.org/images/trophies/3795/fa9.jpg"
+    },{
+    	game: "Goat Simulator",
+        name: "The Flapmaster",
+        desc: "Score 10 points in Flappy Goat",
+        imag: "https://www.playstationtrophies.org/images/trophies/3795/885.jpg"
+    },{
+    	game: "God of War III",
+        name: "Ladies Man",
+        desc: "Successfully entertain Aphrodite",
+        imag: "https://www.playstationtrophies.org/images/trophies/3489/c62.jpg"
+    },{
+    	game: "God of War III",
+        name: "Priceless",
+        desc: "Collect all of the Godly Possessions",
+        imag: "https://www.playstationtrophies.org/images/trophies/3489/761.jpg"
+    },{
+    	game: "God of War III",
+        name: "Sibling Rivalry",
+        desc: "Kill Hercules",
+        imag: "https://www.playstationtrophies.org/images/trophies/3489/0aa.jpg"
+    },{
+    	game: "Life is Strange",
+        name: "Blowup",
+        desc: "Take optional photo #5 in Episode 5: Polarized",
+        imag: "https://www.playstationtrophies.org/images/trophies/2971/802.jpg"
+    },{
+    	game: "Life is Strange",
+        name: "Colorized",
+        desc: "Take optional photo #8 in Episode 2: Out of Time",
+        imag: "https://www.playstationtrophies.org/images/trophies/2971/0c3.jpg"
+    },{
+    	game: "Life is Strange",
+        name: "Telephotogenic",
+        desc: "Take optional photo #3 in Episode 1: Chrysalis",
+        imag: "https://www.playstationtrophies.org/images/trophies/2971/85f.jpg"
+    },{
+    	game: "Mad Max",
+        name: "No Brainer",
+        desc: "Destroy all scarecrows",
+        imag: "https://www.playstationtrophies.org/images/trophies/2105/2ed.jpg"
+    },{
+    	game: "Mad Max",
+        name: "The Bigger they are... (m)",
+        desc: "Take down a Top Dog camp",
+        imag: "https://www.playstationtrophies.org/images/trophies/2105/dcc.jpg"
+    },{
+    	game: "Mad Max",
+        name: "Wasteland Chef",
+        desc: "Eat a meal of maggots",
+        imag: "https://www.playstationtrophies.org/images/trophies/2105/2ca.jpg"
+    },{
+    	game: "Metal Gear Solid V: The Phantom Pain",
+        name: "Cry Havoc",
+        desc: "Make D-Dog available for deployment.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2860/fa4.jpg"
+    },{
+    	game: "Metal Gear Solid V: The Phantom Pain",
+        name: "Interrogation",
+        desc: "Interrogate an enemy soldier.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2860/27e.jpg"
+    },{
+    	game: "Metal Gear Solid V: The Phantom Pain",
+        name: "To The Rescue",
+        desc: "Extract a female prisoner.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2860/dc9.jpg"
+    },{
+    	game: "Rocket League",
+        name: "Break Shot",
+        desc: "Score a goal by hitting your opponent into the ball",
+        imag: "https://www.playstationtrophies.org/images/trophies/3583/e6f.jpg"
+    },{
+    	game: "Rocket League",
+        name: "Still A Show-Off",
+        desc: "Score a goal while reversing",
+        imag: "https://www.playstationtrophies.org/images/trophies/3583/490.jpg"
+    },{
+    	game: "Rocket League",
+        name: "Wall-Crawler",
+        desc: "Drive on the dome walls for a total of 5 minutes",
+        imag: "https://www.playstationtrophies.org/images/trophies/3583/b9e.jpg"
+    },{
+    	game: "Until Dawn",
+        name: "Scream Too!",
+        desc: "Mike cut off his fingers to free himself from the bear trap",
+        imag: "https://www.playstationtrophies.org/images/trophies/1672/a33.jpg"
+    },{
+    	game: "Until Dawn",
+        name: "This Is THE End",
+        desc: "Nobody survived until dawn",
+        imag: "https://www.playstationtrophies.org/images/trophies/1672/512.jpg"
+    },{
+    	game: "Until Dawn",
+        name: "You Let The Wrong One In",
+        desc: "Ashley or Chris opened the trap door and let the monster in",
+        imag: "https://www.playstationtrophies.org/images/trophies/1672/531.jpg"
+    }]
+},{
+    listName: "Build a Custom List v2.0",
+    banner: "https://i.imgur.com/BW1LLzP.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/customlist2_64.png",
+    trophies: [{
+        game: "Abzu",
+        name: "Breach",
+        desc: "Leap from the water.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2843/59d.jpg"
+    },{
+    	game: "Abzu",
+        name: "Food Chain",
+        desc: "Witness predation while meditating.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2843/d1d.jpg"
+    },{
+    	game: "Batman: The Telltale Series",
+        name: "The Good, the Bat, and the Ugly",
+        desc: "Completed Chapter 6 of Episode 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/4186/b93.jpg"
+    },{
+    	game: "Batman: The Telltale Series",
+        name: "A New Day in Gotham",
+        desc: "Completed Chapter 6 of Episode 5",
+        imag: "https://www.playstationtrophies.org/images/trophies/4186/63a.jpg"
+    },{
+    	game: "Bully",
+        name: "Casanova",
+        desc: "Receive 25 kisses.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4480/4e7.jpg"
+    },{
+    	game: "Bully",
+        name: "Skidmark",
+        desc: "Give 50 wedgies.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4480/854.jpg"
+    },{
+    	game: "Far Cry Primal",
+        name: "Kanda Of Faith",
+        desc: "Climb to the peak of Pardaku Lookout and leap off.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4016/5a6.jpg"
+    },{
+    	game: "Far Cry Primal",
+        name: "Here Kitty",
+        desc: "Tame the bloodfang sabretooth.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4016/66e.jpg"
+    },{
+    	game: "Final Fantasy XV",
+        name: "Angling Expert",
+        desc: "Reached maximum fishing level.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5288/42e.jpg"
+    },{
+    	game: "Final Fantasy XV",
+        name: "Chosen King",
+        desc: "Defeated Ifrit on Normal difficulty.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5288/aa5.jpg"
+    },{
+    	game: "Firewatch",
+        name: "Love Turts",
+        desc: "Adopted a turtle as a pet. The average lifespan of a box turtle is fifty years. It will outlive you.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3733/146.jpg"
+    },{
+    	game: "Firewatch",
+        name: "The Life and Times of Raccoon Carter",
+        desc: "Got attacked by a raccoon; probably didn't get rabies.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3733/36c.jpg"
+    },{
+    	game: "Inside",
+        name: "The Last One",
+        desc: "It comes together",
+        imag: "https://www.playstationtrophies.org/images/trophies/4868/457.jpg"
+    },{
+    	game: "Inside",
+        name: "Wee wee wee",
+        desc: "They never made it to market",
+        imag: "https://www.playstationtrophies.org/images/trophies/4868/702.jpg"
+    },{
+    	game: "LEGO Star Wars: The Force Awakens",
+        name: "Force Is Strong With This One",
+        desc: "Achieve 100% Completion",
+        imag: "https://www.playstationtrophies.org/images/trophies/4377/0d2.jpg"
+    },{
+    	game: "LEGO Star Wars: The Force Awakens",
+        name: "It's A Trap!",
+        desc: "Complete Ottegan Assault",
+        imag: "https://www.playstationtrophies.org/images/trophies/4377/169.jpg"
+    },{
+    	game: "Ratchet & Clank (2016)",
+        name: "Death By Disco",
+        desc: "Use the Groovitron on every type of enemy.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2842/cdb.jpg"
+    },{
+    	game: "Ratchet & Clank (2016)",
+        name: "Pool Sharks Are The Worst",
+        desc: "Get eaten by a Pool Shark in the Pokitaru Ocean.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2842/109.jpg"
+    },{
+    	game: "Rise of the Tomb Raider",
+        name: "Golden Child",
+        desc: "Complete every level in Score Attack with a gold score",
+        imag: "https://www.playstationtrophies.org/images/trophies/3818/d6d.jpg"
+    },{
+    	game: "Rise of the Tomb Raider",
+        name: "Quiet Time",
+        desc: "Find the best seat in the house",
+        imag: "https://www.playstationtrophies.org/images/trophies/3818/43d.jpg"
+    },{
+    	game: "Uncharted 4: A Thief's End",
+        name: "Glamour Shot",
+        desc: "Take a photo of Sully",
+        imag: "https://www.playstationtrophies.org/images/trophies/2388/663.jpg"
+    },{
+    	game: "Uncharted 4: A Thief's End",
+        name: "Peaceful Resolution",
+        desc: "After being marooned, leave everyone alive until the Treasury",
+        imag: "https://www.playstationtrophies.org/images/trophies/2388/239.jpg"
+    },{
+    	game: "Watch Dogs 2",
+        name: "Feeding Frenzy",
+        desc: "Use the \"Call the cops\" hack on the donut-disguised man in Haight-Ashbury",
+        imag: "https://www.playstationtrophies.org/images/trophies/4673/7f1.jpg"
+    },{
+    	game: "Watch Dogs 2",
+        name: "In Style",
+        desc: "Buy the Gatorfeet Whine Country footwear",
+        imag: "https://www.playstationtrophies.org/images/trophies/4673/7cc.jpg"
+    }]
+},{
     listName: "Build a Custom List v3.0",
     banner: "https://i.imgur.com/pcldyMg.png",
     award: "https://i.imgur.com/MZNBF7J.png",
