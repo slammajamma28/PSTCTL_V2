@@ -40,12 +40,19 @@ function updateListProgress(){
             // Add class to style based on progress
             var color;
             if(thisList != "PST Custom Trophy List 1.0" && thisList != "PST Custom Trophy List 2.0" 
-            	&& thisList != "PST Custom Trophy List 3.0" && thisList != "Build a Custom List v3.0"){
+                && thisList != "PST Custom Trophy List 3.0" && thisList != "Build a Custom List v3.0"
+                && thisList != "Build a Custom List v1.0" && thisList != "Build a Custom List v2.0"){
                 if(totalEarned > 0){ color = "bronze" }
                 if(totalEarned > 9){ color = "silver" }
                 if(totalEarned > 19){ color = "gold" }
                 if(totalEarned > 29){ color = "platinum" }
                 if(totalEarned >= 35){ color = "perfect" }
+                $(this).addClass(color);
+            } else if(thisList != "Build a Custom List v1.0" || thisList != "Build a Custom List v2.0") {
+                if(totalEarned > 5){ color = "bronze" }
+                if(totalEarned > 11){ color = "silver" }
+                if(totalEarned > 17){ color = "gold" }
+                if(totalEarned >= 24){ color = "platinum" }
                 $(this).addClass(color);
             } else {
                 if(totalEarned > 19){ color = "bronze" }
@@ -98,6 +105,54 @@ function sortByName(){
 function toggleView(){
     $(".all-games").removeClass("all-games");
     $(".list-of-lists, #list-selected").toggle();
+}
+
+function darkMode(){
+    if(localStorage.getItem("dark-mode")){
+        // Enable dark mode
+        $('body').addClass("dark-mode");
+        $('.trophy_list').addClass("dark-mode");
+        $('.list').addClass("dark-mode");
+        $('.trophy').addClass("dark-mode");
+        $('.dark-mode-toggle').addClass("dark-mode");
+        $('button').addClass("dark-mode");
+    } else {
+        // Enable light mode
+        $('body').removeClass("dark-mode");
+        $('.trophy_list').removeClass("dark-mode");
+        $('.list').removeClass("dark-mode");
+        $('.trophy').removeClass("dark-mode");
+        $('.dark-mode-toggle').removeClass("dark-mode");
+        $('button').removeClass("dark-mode");
+    }
+}
+
+function trophyPing(){
+    var rrElement = document.createElement('audio');
+    rrElement.setAttribute('src', "./img/ping.mp3")
+    rrElement.setAttribute('autoplay', 'autoplay');
+    rrElement.addEventListener("load", function() {
+                    rrElement.play();
+            } , true);
+}
+
+function calculate() {
+    for(var a = 0; a < lists.length; a++){
+        var thisLS = localStorage.getItem(lists[a].listName);
+        // console.log(lists[a].listName + " was at " + thisLS);
+        var actualEarned = 0;
+        for (var b = 0; b < lists[a].trophies.length; b++) {
+            if (localStorage.getItem("t-"+lists[a].trophies[b].name) != null ) {
+                // console.log("Earned trophy: " + lists[a].trophies[b].name);
+                actualEarned++;
+            }
+        }
+        if (actualEarned > 0) {
+            // console.log(lists[a].listName + " is now at " + actualEarned);
+            localStorage.setItem(lists[a].listName, actualEarned);
+        }
+    }
+    // window.location.reload();
 }
 
 // Show selected list
@@ -225,6 +280,7 @@ function saveTrophy(e) {
 
     if(checked){
         localStorage.setItem("t-" + thisTrophy, true);
+        trophyPing();
     } else {
         localStorage.removeItem("t-" + thisTrophy);
     }
@@ -262,7 +318,8 @@ $(document).ready(function () {
     ga('send', 'pageview', 'Overview');
     createListOfLists();
     updateListProgress();
-
+    darkMode();
+    // calculate();
 
     /* Overview */
     $("#list-of-lists").on("click", ".list:not(.data-row)", function(){
@@ -316,25 +373,10 @@ $(document).ready(function () {
     gamesList = sort_unique(gamesList);
 
     
-    $(".update-numbers").click(function() {
-    	for(var a = 0; a < lists.length; a++){
-            var thisLS = localStorage.getItem(lists[a].listName);
-            console.log(lists[a].listName + " was at " + thisLS);
-            var actualEarned = 0;
-            for (var b = 0; b < lists[a].trophies.length; b++) {
-                if (localStorage.getItem("t-"+lists[a].trophies[b].name) != null ) {
-                	console.log("Earned trophy: " + lists[a].trophies[b].name);
-                	actualEarned++;
-                }
-            }
-            if (actualEarned > 0) {
-            	console.log(lists[a].listName + " is now at " + actualEarned);
-            	localStorage.setItem(lists[a].listName, actualEarned);
-            }
-        }
-        window.location.reload();
-    })
-    
+    $(".update-numbers").click(function(){
+        calculate();
+    });
+
     $("#exported").hide();
 
     $(".export-storage").click(function() {
@@ -380,6 +422,19 @@ $(document).ready(function () {
         $("#localStorageText").val("");
         $("#list-of-lists").show();
     })
+
+    $(".dark-mode-toggle").click(function(){
+        if(localStorage.getItem("dark-mode")){
+            // Dark already enabled, disable it
+            localStorage.removeItem("dark-mode");
+            darkMode();
+        } else {
+            // Enable dark mode
+            localStorage.setItem("dark-mode", true);
+            darkMode();
+        }
+
+    });
 
     $(".get-games").click(function(){
         toggleView();
