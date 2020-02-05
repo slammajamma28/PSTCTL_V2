@@ -110,7 +110,6 @@ function toggleView(){
 function darkMode(){
     if(localStorage.getItem("dark-mode")){
         // Enable dark mode
-        // $('.dark-mode-toggle').toggle(true);
         $('body').addClass("dark-mode");
         $('.trophy_list').addClass("dark-mode");
         $('.list').addClass("dark-mode");
@@ -118,7 +117,6 @@ function darkMode(){
         $('.dark-mode-toggle').addClass("dark-mode");
         $('button').addClass("dark-mode");
     } else {
-        // $('.dark-mode-toggle').toggle(false);
         // Enable light mode
         $('body').removeClass("dark-mode");
         $('.trophy_list').removeClass("dark-mode");
@@ -323,6 +321,10 @@ $(document).ready(function () {
     darkMode();
     // calculate();
 
+    if (localStorage.getItem("dark-mode")) {
+        $("#dark-mode-slider").prop('checked', true);
+    }
+
     /* Overview */
     $("#list-of-lists").on("click", ".list:not(.data-row)", function(){
         listSelected($(this));
@@ -425,7 +427,7 @@ $(document).ready(function () {
         $("#list-of-lists").show();
     })
 
-    $(".dark-mode-toggle").click(function(){
+    $("#dark-mode-slider").click(function(){
         if(localStorage.getItem("dark-mode")){
             // Dark already enabled, disable it
             localStorage.removeItem("dark-mode");
