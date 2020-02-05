@@ -110,6 +110,7 @@ function toggleView(){
 function darkMode(){
     if(localStorage.getItem("dark-mode")){
         // Enable dark mode
+        // $('.dark-mode-toggle').toggle(true);
         $('body').addClass("dark-mode");
         $('.trophy_list').addClass("dark-mode");
         $('.list').addClass("dark-mode");
@@ -117,6 +118,7 @@ function darkMode(){
         $('.dark-mode-toggle').addClass("dark-mode");
         $('button').addClass("dark-mode");
     } else {
+        // $('.dark-mode-toggle').toggle(false);
         // Enable light mode
         $('body').removeClass("dark-mode");
         $('.trophy_list').removeClass("dark-mode");
@@ -444,12 +446,21 @@ $(document).ready(function () {
 
         $("#list-header").hide();
         $(".container.trophy_list.top").css("margin-top","20px");
-        $(".container.trophy_list.top").html("<div class='col-xs-10'><p>Refresh the page to go back.</p></div>" +
+
+        if(darkMode) {
+            $(".container.trophy_list.top").html("<div class='col-xs-10 dark-mode'><p>Refresh the page to go back.</p></div>" +
+        		"<div class='col-xs-2 text-center dark-mode'><p>Own Game</p></div>");
+        }
+        else {
+            $(".container.trophy_list.top").html("<div class='col-xs-10'><p>Refresh the page to go back.</p></div>" +
         		"<div class='col-xs-2 text-center'><p>Own Game</p></div>");
+        }
 
         // Fill out trophy List
         var trophyCount = 0,
             gameCount = 0;
+        darkMode = localStorage.getItem("dark-mode");
+
         $("#trophy-list").html("");
 
         for(var i = 0; i < gamesList.length; i++){
@@ -459,7 +470,7 @@ $(document).ready(function () {
         	if(localStorage.getItem("g-" + currentGame)){
             	gameGOT = "checked";
             }
-        	
+            
             $("#trophy-list").addClass("all-games").append("" +
                 "<div id=\"game-list-"+ i +"\" class='trophy all-trophy'>" +
                 "<div class=\"row\">" +
@@ -495,15 +506,30 @@ $(document).ready(function () {
                         trophyGOT = "checked";
                     }
 
-                    $("#game-list-" + gameID).find(".game-list-trophies .col-sm-12").append("" +
+                    if (darkMode){
+                        // Dark Mode
+                        $("#game-list-" + gameID).find(".game-list-trophies .col-sm-12").append("" +
                         "<div class=\"row game-list-trophy\">" +
                         "<div class=\"col-xs-12 all-games-trophy\">" +
                         "<input type=\"checkbox\" id=\"bygame-checkbox-trophy-"+ a +"-" + b + "\" class=\"bygame-check-trophy game\" data-trophy-name=\"t-" + trophyName + "\" "+ trophyGOT +"/>" +
-                        "<h4 class=\"game-list-trophy-name "+ trophyName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() +"\">" + trophyName + "</h4>" +
+                        "<h4 class=\"dark-mode game-list-trophy-name "+ trophyName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() +"\">" + trophyName + "</h4>" +
                         "<div class=\"col-xs-12 listsList\"></div>" +
                         "</div>" +
                         "</div>" +
                         "");
+                    }
+                    else {
+                        // Light Mode
+                        $("#game-list-" + gameID).find(".game-list-trophies .col-sm-12").append("" +
+                            "<div class=\"row game-list-trophy\">" +
+                            "<div class=\"col-xs-12 all-games-trophy\">" +
+                            "<input type=\"checkbox\" id=\"bygame-checkbox-trophy-"+ a +"-" + b + "\" class=\"bygame-check-trophy game\" data-trophy-name=\"t-" + trophyName + "\" "+ trophyGOT +"/>" +
+                            "<h4 class=\"game-list-trophy-name "+ trophyName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() +"\">" + trophyName + "</h4>" +
+                            "<div class=\"col-xs-12 listsList\"></div>" +
+                            "</div>" +
+                            "</div>" +
+                            "");
+                    }
                     $("." + trophyName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase()).parent().find(".listsList").append("<p><em>"+ listName +"</em></p>");
                 }
 

@@ -173,7 +173,12 @@ input:checked + .slider:before {
     &.silver { @include gradientBG($black, $silver); }
     &.gold { @include gradientBG($black, $gold); }
     &.platinum { @include gradientBG($black, $platinum); }
-    &.perfect { @include gradientBG($white, $white); }
+    &.perfect { 
+      @include gradientBG($white, $white); 
+      h3 {
+        color: $black;
+      }
+    }
       /* background: rgb(9, 9, 9);
       background: -moz-linear-gradient(-45deg, rgba(76, 76, 76, 1) 0%, rgba(0, 0, 0, 1) 0%, rgba(17, 17, 17, 1) 60%, rgba(19, 19, 19, 1) 100%);
       background: -webkit-linear-gradient(-45deg, rgba(76, 76, 76, 1) 0%, rgba(0, 0, 0, 1) 0%, rgba(17, 17, 17, 1) 60%, rgba(19, 19, 19, 1) 100%);
@@ -235,6 +240,12 @@ input:checked + .slider:before {
 }
 .trophy_list{
   
+  div.dark-mode{
+    p {
+      color: $white;
+    }
+  }
+
   &.dark-mode {
     background: $black;
     strong{
@@ -338,11 +349,13 @@ input:checked + .slider:before {
 
           h4{
             margin-left: 20px;
+            &.dark-mode { color: $white };
           }
 
           h4, input{
             display: inline-block;
           }
+
         }
 
         .listsList{
