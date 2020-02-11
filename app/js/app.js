@@ -48,18 +48,20 @@ function updateListProgress(){
                 if(totalEarned > 29){ color = "platinum" }
                 if(totalEarned >= 35){ color = "perfect" }
                 $(this).addClass(color);
-            } else if(thisList != "Build a Custom List v1.0" || thisList != "Build a Custom List v2.0") {
-                if(totalEarned > 5){ color = "bronze" }
-                if(totalEarned > 11){ color = "silver" }
-                if(totalEarned > 17){ color = "gold" }
-                if(totalEarned >= 24){ color = "platinum" }
-                $(this).addClass(color);
             } else {
-                if(totalEarned > 19){ color = "bronze" }
-                if(totalEarned > 29){ color = "silver" }
-                if(totalEarned > 39){ color = "gold" }
-                if(totalEarned == 50){ color = "platinum" }
-                $(this).addClass(color);
+                if(thisList == "Build a Custom List v1.0" || thisList == "Build a Custom List v2.0") {
+                    if(totalEarned > 5){ color = "bronze" }
+                    if(totalEarned > 11){ color = "silver" }
+                    if(totalEarned > 17){ color = "gold" }
+                    if(totalEarned >= 24){ color = "platinum" }
+                    $(this).addClass(color);
+                } else {
+                    if(totalEarned > 19){ color = "bronze" }
+                    if(totalEarned > 29){ color = "silver" }
+                    if(totalEarned > 39){ color = "gold" }
+                    if(totalEarned == 50){ color = "platinum" }
+                    $(this).addClass(color);
+                }
             }
         }
     });
