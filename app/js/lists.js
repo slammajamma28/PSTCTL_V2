@@ -4634,6 +4634,11 @@ var lists = [{
         desc: "Kill 25 enemies during Blacksight",
         imag: "http://www.playstationtrophies.org/images/trophies/2104/d77.jpg"
     },{
+        game: "The Outer Worlds",
+        name: "Well Dressed",
+        desc: "Wore 'A Nice Hat' and 'Chimaera' at the same time.",
+        imag: "https://www.playstationtrophies.org/images/trophies/8276/b6473d16-8f1f-4bda-acc5-d0b5229810bc.jpg"
+    },{
         game: "Thomas Was Alone",
         name: "A Noble Quest",
         desc: "Find both trophy pickups in 'Iterate'.",
@@ -4893,6 +4898,11 @@ var lists = [{
         name: "FIN",
         desc: "Unlocks when the player completes the game.",
         imag: "http://www.playstationtrophies.org/images/trophies/2114/04.jpg"
+    },{
+        game: "Dark Souls",
+        name: "Enkindle",
+        desc: "Light bonfire flame.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6840/f14.jpg"
     },{
         game: "Entwined",
         name: "Eternity",
@@ -5448,6 +5458,11 @@ var lists = [{
         name: "A Series of Unfortunate Accidents",
         desc: "Knock off all the sitting Mafia in Mafia Town!",
         imag: "https://www.playstationtrophies.org/images/trophies/6166/193.jpg"
+    },{
+        game: "A Plague Tale: Innocence",
+        name: "Savior",
+        desc: "Save a soldier",
+        imag: "https://www.playstationtrophies.org/images/trophies/5985/caf.jpg"
     },{
         game: "A Way Out",
         name: "Take A Breather",
@@ -8539,6 +8554,11 @@ var lists = [{
         desc: "Find all collectibles in the campaign",
         imag: "https://www.playstationtrophies.org/images/trophies/1931/21.jpg"
     },{
+        game: "Kingdom Hearts III",
+        name: "Classically Trained",
+        desc: "Get a new high score in every Classic Kingdom game.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2107/915.jpg"
+    },{
         game: "Life is Strange",
         name: "Selfie Awareness",
         desc: "Take all optional photos in Episode 5: Polarized",
@@ -10824,6 +10844,11 @@ var lists = [{
         desc: "Complete the game",
         imag: "http://www.playstationtrophies.org/images/trophies/1243/14.jpg"
     },{
+        game: "Pyre",
+        name: "True Freedom",
+        desc: "Complete your quest for freedom (Campaign)",
+        imag: "https://www.playstationtrophies.org/images/trophies/4546/2bc.jpg"
+    },{
         game: "Remember Me",
         name: "The wheat and the chaff",
         desc: "Beat Madame without hitting any of her clones",
@@ -10998,6 +11023,11 @@ var lists = [{
         name: "Every Breath You Take",
         desc: "Look intently at Sub Lieutenant Jones",
         imag: "https://www.playstationtrophies.org/images/trophies/4938/001.jpg"
+    },{
+        game: "Human Fall Flat",
+        name: "For whom the bell tolls",
+        desc: "Ring the castle bell in 'Castle'",
+        imag: "https://www.playstationtrophies.org/images/trophies/5822/642.jpg"
     },{
         game: "Infinity Runner",
         name: "Bad Moon Rising",
