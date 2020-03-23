@@ -3604,7 +3604,7 @@ var lists = [{
         desc: "Stand on foot at the highest point of Medici.",
         imag: "https://www.playstationtrophies.org/images/trophies/3190/aad.jpg"
     },{
-        game: "Monster Hunter: World",
+        game: "Monster Hunter World",
         name: "Movin' On Up",
         desc: "Move into an upgraded room.",
         imag: "https://www.playstationtrophies.org/images/trophies/5973/157.jpg"
@@ -4569,7 +4569,7 @@ var lists = [{
         desc: "Finish the story with Good Karma",
         imag: "http://www.playstationtrophies.org/images/trophies/1936/000.jpg"
     },{
-        game: "Monster Hunter: World",
+        game: "Monster Hunter World",
         name: "The Hunter's Life For Me",
         desc: "Complete 50 optional quests.",
         imag: "https://www.playstationtrophies.org/images/trophies/5973/a3c.jpg"
@@ -5529,7 +5529,7 @@ var lists = [{
         desc: "LET THE OLD PERSON FINISH TALKING",
         imag: "https://www.playstationtrophies.org/images/trophies/7080/dae.jpg"
     },{
-        game: "Monster Hunter: World",
+        game: "Monster Hunter World",
         name: "One Shall Stand, One Shall Fall",
         desc: "Earn the right to take on eight-star assignments.",
         imag: "https://www.playstationtrophies.org/images/trophies/5973/ea9.jpg"
@@ -12193,6 +12193,161 @@ var lists = [{
         name: "Friend of Alexander",
         desc: "Collect 25 Turtles",
         imag: "http://www.playstationtrophies.org/images/trophies/251/16.jpg"
+    }]
+},{
+    listName: "Xander45's Mystery Box of Gaming Genres",
+    banner: "https://i.imgur.com/v4A87l9.png",
+    award: "https://i.imgur.com/8374cNx.png",
+    trophies: [{
+        game: "A Plague Tale: Innocence",
+        name: "The hard way",
+        desc: "Enter through the main door",
+        imag: "https://www.playstationtrophies.org/images/trophies/5985/5d6.jpg"
+    },{
+        game: "Adventure Time: Pirates of the Enchiridion",
+        name: "Found Him!",
+        desc: "Find the snail",
+        imag: "https://www.playstationtrophies.org/images/trophies/6750/ff7.jpg"
+    },{
+        game: "Invector",
+        name: "Veni Vidi AVICII",
+        desc: "Complete all levels",
+        imag: "https://www.playstationtrophies.org/images/trophies/9857/5370808d-2083-4025-ab01-4ee59cca183f.jpg"
+    },{
+        game: "Cat Quest",
+        name: "Helper of Cats",
+        desc: "Completed 6 side quests",
+        imag: "https://www.playstationtrophies.org/images/trophies/6627/a4e.jpg"
+    },{
+        game: "Constructor",
+        name: "DOWN WITH THIS KIND OF THING",
+        desc: "Picket 3 rival resources simultaneously",
+        imag: "https://www.playstationtrophies.org/images/trophies/3875/4d5.jpg"
+    },{
+        game: "Days Gone",
+        name: "This is a Knife",
+        desc: "Kill a Breaker, Reacher, or Rager with a knife",
+        imag: "https://www.playstationtrophies.org/images/trophies/4709/e40.jpg"
+    },{
+        game: "Donut County",
+        name: "Nerd (d)",
+        desc: "Complete the Trashopedia",
+        imag: "https://www.playstationtrophies.org/images/trophies/7854/f43.jpg"
+    },{
+        game: "Dragon Quest XI",
+        name: "If at First You Don't Succeed",
+        desc: "Awarded for reworking 10 items on the Fun-Size Forge",
+        imag: "https://www.playstationtrophies.org/images/trophies/7898/a5e.jpg"
+    },{
+        game: "Final Fantasy VIII",
+        name: "Cards Club Master",
+        desc: "Defeat every member of the CC group",
+        imag: "https://www.playstationtrophies.org/images/trophies/8981/481.jpg"
+    },{
+        game: "Furi",
+        name: "Neon Swagger",
+        desc: "Keep the armor glowing at maximum level for one full phase",
+        imag: "https://www.playstationtrophies.org/images/trophies/4032/12d.jpg"
+    },{
+        game: "God of War (2018)",
+        name: "Hello, Old Friend",
+        desc: "Retrieve the Blades of Chaos",
+        imag: "https://www.playstationtrophies.org/images/trophies/4708/c23.jpg"
+    },{
+        game: "Hollow Knight",
+        name: "Test of Resolve",
+        desc: "Defeat Hornet in Greenpath",
+        imag: "https://www.playstationtrophies.org/images/trophies/7992/f1e.jpg"
+    },{
+        game: "Human Fall Flat",
+        name: "Brute Force",
+        desc: "Complete 'Demolition'",
+        imag: "https://www.playstationtrophies.org/images/trophies/5822/f2b.jpg"
+    },{
+        game: "LEGO Ninjago Movie",
+        name: "Master of Human Resources",
+        desc: "Defeat 20 Shark Army goons as Lord Garmadon in one session",
+        imag: "https://www.playstationtrophies.org/images/trophies/6056/015.jpg"
+    },{
+        game: "Medievil",
+        name: "Deathly Smorgasbord",
+        desc: "Die 7 different ways",
+        imag: "https://www.playstationtrophies.org/images/trophies/6737/0f6.jpg"
+    },{
+        game: "Monster Hunter World",
+        name: "Mmm, So Tasty!",
+        desc: "Cook your first well-done steak",
+        imag: "https://www.playstationtrophies.org/images/trophies/5973/39c.jpg"
+    },{
+        game: "NieR: Automata",
+        name: "Lunar Tear",
+        desc: "The place of memories has been visited",
+        imag: "https://www.playstationtrophies.org/images/trophies/4086/908.jpg"
+    },{
+        game: "Overcooked 2",
+        name: "Hot Pot Shot",
+        desc: "Throw 100 ingredients into a cooking pot",
+        imag: "https://www.playstationtrophies.org/images/trophies/7527/a76.jpg"
+    },{
+        game: "Owlboy",
+        name: "Music Master",
+        desc: "Played Otus's song on Bomboman's drums",
+        imag: "https://www.playstationtrophies.org/images/trophies/6609/04d.jpg"
+    },{
+        game: "Persona 3: Dancing in Moonlight",
+        name: "Getting the Shiny Things",
+        desc: "Obtained half of all the accessories",
+        imag: "https://www.playstationtrophies.org/images/trophies/7496/628.jpg"
+    },{
+        game: "Persona 5",
+        name: "Soul of Rebellion",
+        desc: "Obtain the Persona Arsene",
+        imag: "https://www.playstationtrophies.org/images/trophies/471/7be.jpg"
+    },{
+        game: "Resident Evil 2",
+        name: "Treasure Hunter (r)",
+        desc: "Using the photo hints, find 2 hidden items",
+        imag: "https://www.playstationtrophies.org/images/trophies/6014/5dd.jpg"
+    },{
+        game: "Reverie",
+        name: "We All Need a Hobby",
+        desc: "Look at the feather book",
+        imag: "https://www.playstationtrophies.org/images/trophies/7378/779.jpg"
+    },{
+        game: "RiME",
+        name: "Good Intentions",
+        desc: "Try to undo a mistake",
+        imag: "https://www.playstationtrophies.org/images/trophies/2268/fa1.jpg"
+    },{
+        game: "SoulCalibur VI",
+        name: "Never Fight on an Empty Stomach",
+        desc: "Eat some food in Libra of Soul",
+        imag: "https://www.playstationtrophies.org/images/trophies/6716/7c3.jpg"
+    },{
+        game: "The Adventure Pals",
+        name: "Cake Boss",
+        desc: "Be part of the adventure when the 10th Cupcake is collected",
+        imag: "https://www.playstationtrophies.org/images/trophies/7186/2e0.jpg"
+    },{
+        game: "The Sexy Brutale",
+        name: "Stories and Studies of Strange Things",
+        desc: "You discovered the library. What secrets does it hide?",
+        imag: "https://www.playstationtrophies.org/images/trophies/4903/1bc.jpg"
+    },{
+        game: "Undertale",
+        name: "Help me, I'm out of Ideas",
+        desc: "Get four items",
+        imag: "https://www.playstationtrophies.org/images/trophies/5971/a01.jpg"
+    },{
+        game: "Valkyria Chronicles",
+        name: "The Wings of Solidarity",
+        desc: "Obtain the decoration given to all members of a squad that has displayed solidarity and excellence in teamwork",
+        imag: "https://www.playstationtrophies.org/images/trophies/416/f50.jpg"
+    },{
+        game: "Yooka-Laylee and the Impossible Lair",
+        name: "Paywalls!?",
+        desc: "Lower Trowzer's First Paywall",
+        imag: "https://www.playstationtrophies.org/images/trophies/8954/43e.jpg"
     }]
 },{
     listName: "Zet's Eclectic TrackList",
