@@ -5450,6 +5450,161 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/3583/a34.jpg"
     }]
 },{
+	listName: "ixii's WobblyWolf Tribute List",
+    banner: "https://i.imgur.com/RdLzVSz.png",
+    award: "https://i.imgur.com/TlbvW6T.png",
+    trophies: [{
+        game: "A Way Out",
+        name: "Break From Reality",
+        desc: "You played a videogame with a friend.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5952/80b.jpg"
+    },{
+        game: "Assassin's Creed Unity",
+        name: "Never Say Die",
+        desc: "Revive a partner in Co-op.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2628/1b1.jpg"
+    },{
+        game: "Borderlands 3",
+        name: "Star Bound",
+        desc: "Reach level 10.",
+        imag: "https://www.playstationtrophies.org/images/trophies/8441/7e7.jpg"
+    },{
+        game: "Coffee Talk",
+        name: "Love of My Life",
+        desc: "Finish Lua and Baileys' arc",
+        imag: "https://www.playstationtrophies.org/images/trophies/9969/36bef1e4-d0ea-4b5b-a8f7-d2daa8f935d8.jpg"
+    },{
+        game: "Destiny",
+        name: "Flawless Raider",
+        desc: "Complete a Raid without anyone in your fireteam dying.",
+        imag: "https://www.playstationtrophies.org/images/trophies/1542/b42.jpg"
+    },{
+        game: "Diablo III: Reaper of Souls",
+        name: "A Mystical Meeting",
+        desc: "Acquire the Mystic.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2985/b59.jpg"
+    },{
+        game: "Dragon Age: Inquisition",
+        name: "Beloved and Precious",
+        desc: "Commit to a romantic relationship.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2254/31c.jpg"
+    },{
+        game: "Dust: An Elysian Tail",
+        name: "One Last Wish",
+        desc: "Fulfill Bopo's wish for snow",
+        imag: "https://www.playstationtrophies.org/images/trophies/3026/937.jpg"
+    },{
+        game: "Entwined",
+        name: "Resolution",
+        desc: "Finish all the Lifetimes as the evolved Dragon",
+        imag: "https://www.playstationtrophies.org/images/trophies/2834/2d2.jpg"
+    },{
+        game: "Fatal Twelve",
+        name: "Like a Dream World",
+        desc: "Get ending, 'Like a dream world'.",
+        imag: "https://www.playstationtrophies.org/images/trophies/9251/929.jpg"
+    },{
+        game: "Final Fantasy Type-0",
+        name: "What Lies Beyond",
+        desc: "Completed Chapter 8 'Verdict: Finis.'",
+        imag: "https://www.playstationtrophies.org/images/trophies/2846/93a.jpg"
+    },{
+        game: "Game of Thrones (Telltale)",
+        name: "Fight for Life",
+        desc: "Completed Chapter 2 of Episode 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/2441/616.jpg"
+    },{
+        game: "Grim Fandango Remastered",
+        name: "Consider it an homage.",
+        desc: "Have Olivia recite one of your poems.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2909/271.jpg"
+    },{
+        game: "Guardians of the Galaxy",
+        name: "Wish You Were Here (g)",
+        desc: "Completed Chapter 2 of Episode 5",
+        imag: "https://www.playstationtrophies.org/images/trophies/5629/8c5.jpg"
+    },{
+        game: "Horizon Zero Dawn: The Frozen Wilds",
+        name: "Conquered the Mountain",
+        desc: "Drove out the threat within the mountain.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3726/084.jpg"
+    },{
+        game: "ICEY",
+        name: "To Meet You Again",
+        desc: "Witness the birth of ICEY's self-awareness",
+        imag: "https://www.playstationtrophies.org/images/trophies/6001/bcb.jpg"
+    },{
+        game: "Indivisible",
+        name: "Unlocking One's True Potential",
+        desc: "Completed one Incarnation's Resolution quest.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4015/6ca.jpg"
+    },{
+        game: "Marvel's Spider-Man",
+        name: "Science FTW!",
+        desc: "Craft 15 Upgrades",
+        imag: "https://www.playstationtrophies.org/images/trophies/4712/375.jpg"
+    },{
+        game: "Mirror's Edge Catalyst",
+        name: "Never Forgotten",
+        desc: "Avenge them.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2098/c76.jpg"
+    },{
+        game: "Monster Hunter World",
+        name: "Hunters United Forever",
+        desc: "Complete 100 quests via multiplayer.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5973/c36.jpg"
+    },{
+        game: "NieR: Automata",
+        name: "Transcendent Being",
+        desc: "All endings achieved.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4086/53e.jpg"
+    },{
+        game: "Tales from the Borderlands",
+        name: "No Matter Where You Go...",
+        desc: "Completed Chapter 6 of Episode 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/3247/b27.jpg"
+    },{
+        game: "The Sims 4",
+        name: "Black Widow",
+        desc: "Have a Sim outlive five spouses.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6165/45d.jpg"
+    },{
+        game: "The Wolf Among Us",
+        name: "The Long Goodbye",
+        desc: "Completed Chapter 3 of Episode 1",
+        imag: "https://www.playstationtrophies.org/images/trophies/3099/a07.jpg"
+    },{
+        game: "Tom Clancy's The Division",
+        name: "Worth the Wait",
+        desc: "Successfully Extract a contaminated item from the Dark Zone.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2101/b79.jpg"
+    },{
+        game: "Tomb Raider",
+        name: "A Survivor Is Born",
+        desc: "Complete the game.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2439/09B.jpg"
+    },{
+        game: "Transistor",
+        name: "Goodbye()",
+        desc: "Recurse through the story.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2113/7cb.jpg"
+    },{
+        game: "Trine 3: The Enchanted Kingdom",
+        name: "The Story Has Been Told",
+        desc: "Complete all of the main story Chapters",
+        imag: "https://www.playstationtrophies.org/images/trophies/4219/6e3.jpg"
+    },{
+        game: "Uncharted: Drake's Fortune",
+        name: "Cosplay",
+        desc: "Kill an Enemy While Playing as an Alternate Character Costume Other Than Drake",
+        imag: "https://www.playstationtrophies.org/images/trophies/3686/f26.jpg"
+    },{
+        game: "Word Wheel by POWGI",
+        name: "Star Crossed",
+        desc: "Find the nine-letter words for 'STAR'",
+        imag: "https://www.playstationtrophies.org/images/trophies/8901/b32.jpg"
+    }]
+},{
 	listName: "JayPBM's Feeling and Healing",
     banner: "https://i.imgur.com/b30jptm.png",
     award: "https://i.imgur.com/mgULRrF.png",
