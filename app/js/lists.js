@@ -604,6 +604,11 @@ var lists = [{
         desc: "Earn 99 Lives.",
         imag: "https://www.playstationtrophies.org/images/trophies/5342/6e4.jpg"
     },{
+        game: "Crash Team Racing: Nitro-Fueled",
+        name: "Unstoppable (ctr)",
+        desc: "Sustain your boost for a whole lap.",
+        imag: "https://www.playstationtrophies.org/images/trophies/8275/f75.jpg"
+    },{
         game: "Destiny 2",
         name: "Show Me What You Got",
         desc: "Complete Shaxx's Call to Arms.",
@@ -678,6 +683,11 @@ var lists = [{
         name: "Discovered the truth",
         desc: "Discovered the truth of Zero Dawn.",
         imag: "https://www.playstationtrophies.org/images/trophies/3726/850.jpg"
+    },{
+        game: "Kentucky Route Zero: TV Edition",
+        name: "You died",
+        desc: "Die in Xanadu.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6318/6fc1983a-74e8-4a11-849a-41cf39925a67.jpg"
     },{
         game: "Knack 2",
         name: "Sucker for Punishment",
