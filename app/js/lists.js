@@ -8015,6 +8015,161 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/1904/c5d.jpg"
     }]
 },{
+    listName: "pennysticks' Pandemic Preparedness Primer",
+    banner: "https://i.imgur.com/0XLKOCS.png",
+    award: "https://i.imgur.com/uioL5QG.png",
+    trophies: [{
+        game: "Alien: Isolation",
+        name: "One Shot",
+        desc: "Complete the game without dying",
+        imag: "https://www.playstationtrophies.org/images/trophies/2453/2cc.jpg"
+    },{
+        game: "BioShock Infinite",
+        name: "Higher Learning",
+        desc: "Completed Comstock House.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4997/9b1.jpg"
+    },{
+        game: "Bloodborne",
+        name: "Celestial Emissary",
+        desc: "Defeat Great One: Celestial Emissary.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2840/645.jpg"
+    },{
+        game: "Bridge Constructor Portal",
+        name: "You monster.",
+        desc: "100 Test Vehicles destroyed",
+        imag: "https://www.playstationtrophies.org/images/trophies/6708/883.jpg"
+    },{
+        game: "Celeste",
+        name: "1UP!",
+        desc: "Get a 1UP",
+        imag: "https://www.playstationtrophies.org/images/trophies/6904/4ed.jpg"
+    },{
+        game: "Death Stranding",
+        name: "I Couldn't Hold it In!",
+        desc: "Pee outside for the first time.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4711/475789f9-0b8b-4922-bba9-258ea973b68a.jpg"
+    },{
+        game: "Donut County",
+        name: "Bandit",
+        desc: "Break into the vault at Raccoon HQ.",
+        imag: "https://www.playstationtrophies.org/images/trophies/7855/c50.jpg"
+    },{
+        game: "Fallout Shelter",
+        name: "Get Off My Lawn",
+        desc: "Successfully stop 50 Raider Attacks",
+        imag: "https://www.playstationtrophies.org/images/trophies/7501/8bd.jpg"
+    },{
+        game: "Firewatch",
+        name: "Ol' Shoshone",
+        desc: "Listened to the tape of \"Ol' Shoshone.\" Cavorted among the aspens.",
+        imag: "https://www.playstationtrophies.org/images/trophies/3733/eba.jpg"
+    },{
+        game: "GNOG",
+        name: "PURP-L",
+        desc: "Complete PURP-L",
+        imag: "https://www.playstationtrophies.org/images/trophies/5804/0ec.jpg"
+    },{
+        game: "Gorogoa",
+        name: "Old is New",
+        desc: "Complete the original 2012 demo.",
+        imag: "https://www.playstationtrophies.org/images/trophies/7146/ada.jpg"
+    },{
+        game: "Hellblade: Senua's Sacrifice",
+        name: "Source of the Darkness",
+        desc: "Meet Hela for the first time on the Bridge",
+        imag: "https://www.playstationtrophies.org/images/trophies/6193/21e.jpg"
+    },{
+        game: "Hohokum",
+        name: "Les Croque Parabolique (Acrobaticus Sycamoria)",
+        desc: "Thanks to you all of the seed riders made it to the kite festival.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4195/74d.jpg"
+    },{
+        game: "Inside",
+        name: "Office Space",
+        desc: "Do an elevator pitch",
+        imag: "https://www.playstationtrophies.org/images/trophies/4868/cb0.jpg"
+    },{
+        game: "Little Nightmares",
+        name: "Six's Song",
+        desc: "So many keys, yet none to unlock your cage!",
+        imag: "https://www.playstationtrophies.org/images/trophies/4885/df4.jpg"
+    },{
+        game: "Minit",
+        name: "PUNCTUAL",
+        desc: "FIND AN ITEM, COIN, OR HEART WITH LESS THAN 1 SECOND LEFT",
+        imag: "https://www.playstationtrophies.org/images/trophies/7080/61a.jpg"
+    },{
+        game: "Organ Trail",
+        name: "Don, Bill & Paul's Curse",
+        desc: "Someone died of dysentery.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4061/af3.jpg"
+    },{
+        game: "Papers, Please",
+        name: "Glory to Arstotzka",
+        desc: "Ignore all EZIC requests and work dutifully",
+        imag: "https://www.playstationtrophies.org/images/trophies/2974/750.jpg"
+    },{
+        game: "Resident Evil 2",
+        name: "Hats Off!",
+        desc: "Shoot Tyrant's hat off his head.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6014/120.jpg"
+    },{
+        game: "Return of the Obra Dinn",
+        name: "Abandon Ship",
+        desc: "Leave the ship without solving all available chapters.",
+        imag: "https://www.playstationtrophies.org/images/trophies/9385/81f.jpg"
+    },{
+        game: "Road Not Taken",
+        name: "Heartwarmer",
+        desc: "Crafted a Fire",
+        imag: "https://www.playstationtrophies.org/images/trophies/2447/9be.jpg"
+    },{
+        game: "Rogue Legacy",
+        name: "Astrophobia",
+        desc: "Defeat the asteroids.",
+        imag: "https://www.playstationtrophies.org/images/trophies/2870/cc5.jpg"
+    },{
+        game: "Shadow of the Colossus",
+        name: "Boon of the Nomad",
+        desc: "Find Barrel in Hidden Cave",
+        imag: "https://www.playstationtrophies.org/images/trophies/5972/9de.jpg"
+    },{
+        game: "Stick it to the Man",
+        name: "Out of His Mind",
+        desc: "Read Ray's mind",
+        imag: "https://www.playstationtrophies.org/images/trophies/2671/d49.jpg"
+    },{
+        game: "The Flame in the Flood",
+        name: "Iron Stomach",
+        desc: "Eat all the bad stuff in a single playthrough",
+        imag: "https://www.playstationtrophies.org/images/trophies/5424/119.jpg"
+    },{
+        game: "The Last of Us",
+        name: "I want to talk about it",
+        desc: "Engage in all optional conversations",
+        imag: "https://www.playstationtrophies.org/images/trophies/2670/9fb.jpg"
+    },{
+        game: "The Sims 4",
+        name: "Legacy Player",
+        desc: "Play a household for ten generations or more.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6165/d33.jpg"
+    },{
+        game: "The Witness",
+        name: "Challenge",
+        desc: "Complete a certain challenge.",
+        imag: "https://www.playstationtrophies.org/images/trophies/1932/87b.jpg"
+    },{
+        game: "Untitled Goose Game",
+        name: "Ghastly",
+        desc: "Trip the boy in the puddle",
+        imag: "https://www.playstationtrophies.org/images/trophies/9516/82df1d6d-5327-435c-9a39-d5abcda19c97.jpg"
+    },{
+        game: "Virginia",
+        name: "Madam",
+        desc: "For closers only",
+        imag: "https://www.playstationtrophies.org/images/trophies/4937/2f6.jpg"
+    }]
+},{
     listName: "Phantom's ''Odds and Sods'' List",
     banner: "http://www.playstationtrophies.org/images/news/cl_banner_phantom.png",
     award: "http://www.playstationtrophies.org/forum/images/awards/cl_dp64.png",
