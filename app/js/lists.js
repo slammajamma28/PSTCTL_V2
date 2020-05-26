@@ -1264,6 +1264,11 @@ var lists = [{
         desc: "Kill a Rockstar or someone with this Trophy in a public multiplayer match.",
         imag: "https://www.playstationtrophies.org/images/trophies/340/49.jpg"
     },{
+	game: "Rise of the Tomb Raider",
+	name: "Huntress",
+	desc: "Kill 50 animals while wearing the Huntress outfit",
+	imag: "https://www.playstationtrophies.org/images/trophies/3818/1ea.jpg"
+    },{
         game: "Rocket League",
         name: "Super Victorious",
         desc: "Win a total of 30 games across any game mode",
