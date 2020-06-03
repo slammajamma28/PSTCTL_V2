@@ -2649,7 +2649,7 @@ var lists = [{
         desc: "Have the nobles demand an encore.",
         imag: "https://www.playstationtrophies.org/images/trophies/553/c5e.jpg",
     },{
-        game: "God of War",
+        game: "God of War (2018)",
         name: "Best Dressed",
         desc: "Craft an outfit for Atreus",
         imag: "https://www.playstationtrophies.org/images/trophies/4708/a66.jpg",
