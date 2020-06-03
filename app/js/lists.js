@@ -9264,12 +9264,12 @@ var lists = [{
         desc: "255 enemies destroyed using a flight unit.",
         imag: "https://www.playstationtrophies.org/images/trophies/4086/086.jpg"
     },{
-		game: "Nioh",
+	game: "Nioh",
         name: "Twilight Walker",
         desc: "Complete your first Twilight Mission",
         imag: "https://www.playstationtrophies.org/images/trophies/4211/cba.jpg"
     },{
-        game: "Oddworld: Abe's Oddysee - New 'n' Tasty",
+        game: "Oddworld: New 'n' Tasty",
         name: "Speed of the Mudanchee",
         desc: "Run from a Scrab for 25 meters and survive",
         imag: "https://www.playstationtrophies.org/images/trophies/902/890.jpg"
