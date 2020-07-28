@@ -11265,7 +11265,7 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/3583/b9e.jpg"
     },{
         game: "Until Dawn",
-        name: "The Skilful Wolf Man",
+        name: "The Skillful Wolf Man",
         desc: "Mike kept the wolf alive throughout the Sanatorium",
         imag: "http://www.playstationtrophies.org/images/trophies/1672/027.jpg"
     }]
