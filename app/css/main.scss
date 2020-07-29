@@ -237,6 +237,9 @@ input:checked + .slider:before {
 /* Trophy List */
 #list-selected{
   display: none;
+  &.dark-mode {
+    background: $black;
+  }
 }
 .trophy_list{
   

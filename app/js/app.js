@@ -103,6 +103,28 @@ function sortByName(){
     $("#list-of-lists").html(sorted);
 }
 
+// Sorting By Games by number of lists game is in
+function sortByGamesNumber() {
+    var sorted = $("#trophy-list .trophy").sort(function (a, b) {
+        var contentA = $(a).data("num-of-lists");
+        var contentB = $(b).data("num-of-lists");
+        return (contentA > contentB) ? -1 : (contentA < contentB) ? 1 : 0;
+    });
+
+    $("#trophy-list").html(sorted);
+}
+
+// Sorting By Games alphabetically
+function sortByGamesAlpha() {
+    var sorted = $("#trophy-list .trophy").sort(function (a, b) {
+        var contentA = $(a).data("game-name");
+        var contentB = $(b).data("game-name");
+        return (contentA < contentB) ? -1 : (contentA > contentB) ? 1 : 0;
+    });
+
+    $("#trophy-list").html(sorted);
+}
+
 // Toggle between Overview and List
 function toggleView(){
     $(".all-games").removeClass("all-games");
@@ -118,6 +140,8 @@ function darkMode(){
         $('.trophy').addClass("dark-mode");
         $('.dark-mode-toggle').addClass("dark-mode");
         $('button').addClass("dark-mode");
+        $("#list-selected").addClass("dark-mode");
+
     } else {
         // Enable light mode
         $('body').removeClass("dark-mode");
@@ -126,6 +150,7 @@ function darkMode(){
         $('.trophy').removeClass("dark-mode");
         $('.dark-mode-toggle').removeClass("dark-mode");
         $('button').removeClass("dark-mode");
+        $("#list-selected").removeClass("dark-mode");
     }
 }
 
@@ -452,11 +477,15 @@ $(document).ready(function () {
         $(".container.trophy_list.top").css("margin-top","20px");
 
         if(darkMode) {
-            $(".container.trophy_list.top").html("<div class='col-xs-10 dark-mode'><p>Refresh the page to go back.</p></div>" +
+            $(".container.trophy_list.top").html("<div class='col-xs-6 dark-mode'><p>Refresh the page to go back.</p></div>" +
+                "<div class='col-xs-2 text center dark-mode'><a href=\"#\" onclick=\"sortByGamesAlpha()\">Sort Alphabetically</a></div>" +
+                "<div class='col-xs-2 text center dark-mode'><a href=\"#\" onclick=\"sortByGamesNumber()\">Sort By Num of Lists</a></div>" +
         		"<div class='col-xs-2 text-center dark-mode'><p>Own Game</p></div>");
         }
         else {
-            $(".container.trophy_list.top").html("<div class='col-xs-10'><p>Refresh the page to go back.</p></div>" +
+            $(".container.trophy_list.top").html("<div class='col-xs-6'><p>Refresh the page to go back.</p></div>" +
+                "<div class='col-xs-2 text center'><a href=\"#\" onclick=\"sortByGamesAlpha()\">Sort Alphabetically</a></div>" +
+                "<div class='col-xs-2 text center'><a href=\"#\" onclick=\"sortByGamesNumber()\">Sort By Num of Lists</a></div>" +
         		"<div class='col-xs-2 text-center'><p>Own Game</p></div>");
         }
 
@@ -476,7 +505,7 @@ $(document).ready(function () {
             }
             
             $("#trophy-list").addClass("all-games").append("" +
-                "<div id=\"game-list-"+ i +"\" class='trophy all-trophy'>" +
+                "<div id=\"game-list-"+ i +"\" class='trophy all-trophy' data-num-of-lists=0 data-game-name=\"" + currentGame + "\">" +
                 "<div class=\"row\">" +
                 "<div class=\"col-sm-10\">" +
                 "<h3>" + currentGame + "</h3>" +
@@ -510,6 +539,10 @@ $(document).ready(function () {
                         trophyGOT = "checked";
                     }
 
+                     // Increase data attr so we can sort on it
+                     var addOneTo = parseInt($("#game-list-" + gameID).attr('data-num-of-lists'));
+                     $("#game-list-" + gameID).attr('data-num-of-lists', addOneTo + 1);
+
                     if (darkMode){
                         // Dark Mode
                         $("#game-list-" + gameID).find(".game-list-trophies .col-sm-12").append("" +
@@ -539,7 +572,14 @@ $(document).ready(function () {
 
                 // Remove duplicate instances of a trophy per game
                 $("." + trophyName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() + ":not(:first)").parent().remove();
+
             }
+        }
+        // Go back and add number of lists next to game name
+        var totalGameIDs = $(".trophy.all-trophy").length;
+        for (var c = 0; c < totalGameIDs; c++) {
+            var xx = $("#game-list-" + c).data("num-of-lists");
+            $("#game-list-" + c).find("h3").append("&nbsp;&nbsp;&nbsp;[" + xx + "]");
         }
     });
 
