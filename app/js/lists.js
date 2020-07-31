@@ -9492,7 +9492,7 @@ var lists = [{
         game: "Nioh",
         name: "Keeper of the Flame",
         desc: "Lit all three evil-warding bonfires in Itsukushima.",
-        image: "https://www.playstationtrophies.org/images/trophies/4211/09f.jpg"
+        imag: "https://www.playstationtrophies.org/images/trophies/4211/09f.jpg"
     }]
 },{
     listName: "Shadow's ''Box of Variety''",
