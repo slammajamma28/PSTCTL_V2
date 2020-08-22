@@ -7555,7 +7555,7 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/1542/b42.jpg"
     },{
         game: "Diablo III",
-        name: "All That Glitters",
+        name: "All That Glitters (d)",
         desc: "Pick up 5,000,000 gold.",
         imag: "http://www.playstationtrophies.org/images/trophies/1935/042.jpg"
     },{
