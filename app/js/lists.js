@@ -3783,6 +3783,31 @@ var lists = [{
         name: "All the Gains!",
         desc: "Get a new body",
         imag: "https://www.playstationtrophies.org/images/trophies/5961/b9f.jpg"
+    },{
+        game: "Desperados III",
+        name: "Gunslinger's Creed",
+        desc: "Jump from a tower into a cart of hay",
+        imag: "https://www.playstationtrophies.org/images/trophies/7848/60a9149d-6a37-4577-9719-c3d4513f11b8.jpg"
+    },{
+        game: "Final Fantasy VII Remake",
+        name: "In Lockstep",
+        desc: "Bypass the delta-level security lock in Mako Reactor 5.",
+        imag: "https://www.playstationtrophies.org/images/trophies/4213/4f002eb2-808d-45ea-a70e-ed8ed08ef9f9.jpg"
+    },{
+        game: "Mafia: Definitive Edition",
+        name: "Murder in the House of God",
+        desc: "Completed \"The Saint and the Sinner\"",
+        imag: "https://www.playstationtrophies.org/images/trophies/10605/1a2f5218-7a2e-49b2-8257-3cb6187895b0.jpg"
+    },{
+        game: "The Last of Us Part II",
+        name: "Put My Name Up",
+        desc: "Earn the high score in the archery game",
+        imag: "https://www.playstationtrophies.org/images/trophies/5322/106ad4e7-5707-4eb3-b825-d34a264d1252.jpg"
+    },{
+        game: "The Outer Worlds",
+        name: "All for One",
+        desc: "Completed all companion quests",
+        imag: "https://www.playstationtrophies.org/images/trophies/8276/4ca9ebbc-59f9-44b5-b43e-d5e13e2f8f8c.jpg"
     }]
 },{
     listName: "Fletch's ''Valar Morghulis''",
@@ -9865,6 +9890,161 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/5325/015.jpg"
     }]
 },{
+    listName: "smartbomb's Weapons of Mass Destruction",
+    banner: "https://i.imgur.com/fX4YJbI.png",
+    award: "https://i.imgur.com/vgjbbdq.png",
+    trophies: [{
+        game: "Alekhine's Gun",
+        name: "Go For The Throat",
+        desc: "Garrote 30 enemies",
+        imag: "https://www.playstationtrophies.org/images/trophies/6/005.jpg"
+    },{
+        game: "Assassins Creed Origins",
+        name: "The Arrow Whisperer",
+        desc: "Kill an enemy with the predator bow from more than 60 meters while controlling the arrow",
+        imag: "https://www.playstationtrophies.org/images/trophies/5865/dac.jpg"
+    },{
+        game: "Beyond: Two Souls",
+        name: "Aiden's Apocalypse",
+        desc: "Destroyed the gas station, the church, the gun store and the helicopter",
+        imag: "https://www.playstationtrophies.org/images/trophies/1585/BBE.jpg"
+    },{
+        game: "Cat Quest",
+        name: "Fashionista Lion",
+        desc: "Obtained 66 armor or weapon",
+        imag: "https://www.playstationtrophies.org/images/trophies/6627/2d8.jpg"
+    },{
+        game: "Coffin Dodgers",
+        name: "Feeling Lucky?",
+        desc: "Hose 20 oldies with the Uzi",
+        imag: "https://www.playstationtrophies.org/images/trophies/4076/f6b.jpg"
+    },{
+        game: "Devious Dungeon",
+        name: "Sharpened Blade",
+        desc: "Bought a new weapon",
+        imag: "https://www.playstationtrophies.org/images/trophies/7289/39a.jpg"
+    },{
+        game: "Final Fantasy VII Remake",
+        name: "Weapons Expert",
+        desc: "Learn all weapon abilities",
+        imag: "https://www.playstationtrophies.org/images/trophies/4213/e23cb269-5fde-4d60-9634-21f6f4681a68.jpg"
+    },{
+        game: "FullBlast",
+        name: "Nuclear Explosion",
+        desc: "Use a Bomb Attack",
+        imag: "https://www.playstationtrophies.org/images/trophies/7792/abe.jpg"
+    },{
+        game: "God of War (2018)",
+        name: "Hello, Old Friend",
+        desc: "the Blades of Chaos",
+        imag: "https://www.playstationtrophies.org/images/trophies/4708/c23.jpg"
+    },{
+        game: "Grand Theft Auto V",
+        name: "Pimp My Sidearm",
+        desc: "Fully mod a weapon",
+        imag: "http://www.ps3trophies.org/images/trophies/687/f26.jpg"
+    },{
+        game: "Hitman",
+        name: ".50 Personal Touch",
+        desc: "Assassinate Zaydan, as the prisoner, Strandberg during his massage, and both with the APC turret",
+        imag: "https://www.playstationtrophies.org/images/trophies/3727/722.jpg"
+    },{
+        game: "Horizon Zero Dawn",
+        name: "Recovered a powerful weapon",
+        desc: "Explored the Mountain That Fell and recovered a powerful weapon",
+        imag: "https://www.playstationtrophies.org/images/trophies/3726/5af.jpg"
+    },{
+        game: "inFAMOUS Second Son",
+        name: "Excessive Force",
+        desc: "Use a Karmic Streak attack to defeat exactly one enemy",
+        imag: "https://www.playstationtrophies.org/images/trophies/1936/54c.jpg"
+    },{
+        game: "Jazzpunk ",
+        name: "But She Can Fly...",
+        desc: "Win a round of pillow fight",
+        imag: "https://www.playstationtrophies.org/images/trophies/5027/7b1.jpg"
+    },{
+        game: "Just Cause 4",
+        name: "Cow-Moo-Flage",
+        desc: "Turn 10 Black Hand into Cows using the Cow Gun in a single session",
+        imag: "https://www.playstationtrophies.org/images/trophies/7512/2b8.jpg"
+    },{
+        game: "Marvel's Spider-Man",
+        name: "Hug It Out",
+        desc: "Knock together 10 pairs of enemies with Trip Mines",
+        imag: "https://www.playstationtrophies.org/images/trophies/4712/862.jpg"
+    },{
+        game: "Mass Effect: Andromeda",
+        name: "Pyrotechnics Expert",
+        desc: "Light three enemies on fire with one continuous Flamethrower attack. (Single-Player)",
+        imag: "https://www.playstationtrophies.org/images/trophies/2373/947.jpg"
+    },{
+        game: "Mortal Kombat X",
+        name: "Blanche Advantage",
+        desc: "Hit someone with the old lady Level Interaction",
+        imag: "https://www.playstationtrophies.org/images/trophies/2807/090.jpg"
+    },{
+        game: "Plague Inc: Evolved",
+        name: "Russian Nuclear Retaliation",
+        desc: "Make the USA nuke Russia",
+        imag: "https://www.playstationtrophies.org/images/trophies/4660/851.jpg"
+    },{
+        game: "Red Dead Redemption 2",
+        name: "Locked and Loaded",
+        desc: "Upgrade each available component for a single sidearm or longarm weapon",
+        imag: "https://www.playstationtrophies.org/images/trophies/5152/dfe.jpg"
+    },{
+        game: "Resident Evil",
+        name: "CQC FTW",
+        desc: "Finish the game using only your knife (no lighter, Defensive Items, and stomping zombie heads)",
+        imag: "https://www.playstationtrophies.org/images/trophies/2957/cbc.jpg"
+    },{
+        game: "Shadow of the Colossus",
+        name: "Sword of Her Majesty",
+        desc: "Defeat any Colossus with Queen Sword",
+        imag: "http://www.playstationtrophies.org/images/trophies/5972/90d.jpg"
+    },{
+        game: "Shadow of the Tomb Raider",
+        name: "Gunslinger (tr)",
+        desc: "Perform 3 headshots in 3 seconds with the pistol",
+        imag: "http://www.playstationtrophies.org/images/trophies/7122/c65.jpg "
+    },{
+        game: "Sniper Elite III",
+        name: "Wait for it",
+        desc: "Kill 10 enemies with flint-triggered detonations",
+        imag: "http://www.playstationtrophies.org/images/trophies/2303/d95.jpg"
+    },{
+        game: "Squareboy vs Bullies: Arena Edition",
+        name: "HOMERUN (s)",
+        desc: "HIT AN ENEMY WITH A BASEBALL BAT :pvita:",
+        imag: "http://www.playstationtrophies.org/images/trophies/6497/1a8.jpg"
+    },{
+        game: "The Last Guardian",
+        name: "Thundering Wonder",
+        desc: "Defeat 20 or more suits of armour with Trico's lightning",
+        imag: "http://www.playstationtrophies.org/images/trophies/341/de0.jpg "
+    },{
+        game: "The Last of Us",
+        name: "For emergencies only",
+        desc: "Fully upgrade all weapons",
+        imag: "http://www.ps3trophies.org/images/trophies/1317/E38.jpg"
+    },{
+        game: "Uncharted: The Lost Legacy",
+        name: "Bring in the Big Guns",
+        desc: "Defeat 30 enemies with gold weapons",
+        imag: "http://www.playstationtrophies.org/images/trophies/5325/004.jpg"
+    },{
+        game: "Until Dawn",
+        name: "The Psycho Path",
+        desc: "Sam or Ashley attacked the psycho with a weapon",
+        imag: "http://www.playstationtrophies.org/images/trophies/1672/ef8.jpg"
+    },{
+        game: "Worms Battlegrounds",
+        name: "Behold!",
+        desc: "Deploy a legendary weapon that you received from a weapons crate or gravestone",
+        imag: "http://www.playstationtrophies.org/images/trophies/2541/7cd.jpg"
+    }]
+},{
     listName: "Sylar's Super List",
     banner: "http://www.playstationtrophies.org/images/news/cl_banner_sylar.png",
     award: "http://i.imgur.com/wwthqeC.png",
@@ -11029,6 +11209,11 @@ var lists = [{
         desc: "You defeated Princess Kenny while looking like David Hasselhoff.",
         imag: "http://www.playstationtrophies.org/images/trophies/1314/A9C.jpg"
     },{
+        game: "The Adventure Pals",
+        name: "Nice to Meat You",
+        desc: "Defeat Mr B's Hot Dog Monster",
+        imag: "https://www.playstationtrophies.org/images/trophies/7186/594.jpg"
+    },{
         game: "The Book of Unwritten Tales 2",
         name: "Math Magician",
         desc: "Ask the right math problem at the first go",
@@ -11078,6 +11263,31 @@ var lists = [{
         name: "Why'd You Do That, You Dumas!",
         desc: "Opened the eighth lock.",
         imag: "http://www.playstationtrophies.org/images/trophies/1773/483.jpg"
+    },{
+        game: "Assassin's Creed Odyssey",
+        name: "A-maze-ing Victory!",
+        desc: "Defeat the Minotaur",
+        imag: "https://www.playstationtrophies.org/images/trophies/7475/fc1.jpg"
+    },{
+        game: "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+        name: "Cowstlevania: Portrait of Mooin'",
+        desc: "Castlevania: Symphony of the Night: Summon a cow using the Shield Rod or the Mablung Sword",
+        imag: "https://www.playstationtrophies.org/images/trophies/8011/ea6.jpg"
+    },{
+        game: "Mega Man X Legacy Collection",
+        name: "Never Hearts to Be Careful",
+        desc: "Obtain all Heart Tanks and max out X's energy gauge in Mega Man X",
+        imag: "https://www.playstationtrophies.org/images/trophies/7256/5f1.jpg"
+    },{
+        game: "The Sims 4",
+        name: "Straight for the Jocular",
+        desc: "Have a Sim reach max level in the Comedy skill.",
+        imag: "https://www.playstationtrophies.org/images/trophies/6165/56c.jpg"
+    },{
+        game: "Zero Escape: The Nonary Games",
+        name: "Let Me Ax You a Question",
+        desc: "Saw the Ax ending in 999.",
+        imag: "https://www.playstationtrophies.org/images/trophies/5480/1d9.jpg"
     }]
 },{
     listName: "Trik's Troll Toll",
