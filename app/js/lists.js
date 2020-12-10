@@ -7050,7 +7050,7 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/1145/0AA.jpg"
     },{
         game: "Dead Space 3",
-        name: "There's Always Peng!",
+        name: "There's Always Peng! (ds3)",
         desc: "Find Peng.",
         imag: "http://www.playstationtrophies.org/images/trophies/1559/40E.jpg"
     },{
