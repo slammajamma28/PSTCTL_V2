@@ -274,19 +274,17 @@ function hideCollected(){
 // BBCode
 function getBbcode(){
     $("#bbcode").find("pre").append("" +
-        "[B]" + $("#list_name").text() + "[/B] - " + $("input.check-trophy:checked").length + "/" + $(".trophy").length +
-        "\n[SPOILER='A" + Math.floor(Math.random() * (100000 + 1)) + "']" +
-        "\n[LIST=1]" +
-        "");
+        $("#list_name").text() + " - " + $("input.check-trophy:checked").length + "/" + $(".trophy").length +
+        "\n" +  "");
     $(".check-trophy").each(function(k,v){
         if(this.checked){
             $("#bbcode pre").append("" +
-                "\n[*][B]" + $(v).closest(".trophy").find(".game").text() + "[/B] - [I]" + $(v).closest(".trophy").find(".name").text() + "[/I]" +
+                "\n・ " + $(v).closest(".trophy").find(".game").text() + " - " + $(v).closest(".trophy").find(".name").text() +
                 "");
         }
     });
     $("#bbcode").find("pre").append("" +
-        "\n[/LIST]\n[/SPOILER]\n\n" +
+        "\n\n" +
         "");
     $("#bbcode, #reset_bbcode").show();
 }
