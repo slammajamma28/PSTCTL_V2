@@ -827,7 +827,7 @@ var lists = [{
 },{
     listName: "Build a Custom List v1.0",
     banner: "https://i.imgur.com/MI1YvoZ.jpg",
-    award: "https://www.playstationtrophies.org/forum/images/awards/bacl64.png",
+    award: "https://i.imgur.com/XL9scS3.jpg",
     trophies: [{
         game: "Assassin's Creed Syndicate",
         name: "Cerevisaphile",
@@ -952,7 +952,7 @@ var lists = [{
 },{
     listName: "Build a Custom List v2.0",
     banner: "https://i.imgur.com/BW1LLzP.png",
-    award: "https://www.playstationtrophies.org/forum/images/awards/customlist2_64.png",
+    award: "https://i.imgur.com/RQW4613.png",
     trophies: [{
         game: "Abzu",
         name: "Breach",
@@ -9289,7 +9289,7 @@ var lists = [{
         desc: "255 enemies destroyed using a flight unit.",
         imag: "https://www.playstationtrophies.org/images/trophies/4086/086.jpg"
     },{
-	game: "Nioh",
+	    game: "Nioh",
         name: "Twilight Walker",
         desc: "Complete your first Twilight Mission",
         imag: "https://www.playstationtrophies.org/images/trophies/4211/cba.jpg"
@@ -9333,6 +9333,31 @@ var lists = [{
         name: "Hidden in the shadow of Moses",
         desc: "Hide in 50 lockers in the core levels",
         imag: "https://www.playstationtrophies.org/images/trophies/2351/9b3.jpg"
+    },{
+        game: "Crash Bandicoot 4: It's About Time",
+        name: "WOAH YEAH!",
+        desc: "Grabbed a bushel of Bumpa",
+        imag: "https://img.playstationtrophies.org/images/trophies/10794/b9f0b637-ae13-4d81-9a78-824b97c31b18.jpg"
+    },{
+        game: "Demon's Souls (PS5)",
+        name: "Time for Rolling",
+        desc: "Cross the walkway through the Idol's volleys of arrows",
+        imag: "https://img.playstationtrophies.org/images/2020/11/19/game/10746/81e93889169aa9ad4dc9aef7e5e80f1c-lo.png"
+    },{
+        game: "DOOM Eternal",
+        name: "Interplanetary Fracking",
+        desc: "Blow a hole in Mars",
+        imag: "https://img.playstationtrophies.org/images/trophies/7781/f62298f7-79fc-4e0b-aa15-ca06277ff5f2.jpg"
+    },{
+        game: "Nioh 2",
+        name: "Fuse It or Lose It",
+        desc: "Fused any Soul Core until it reached rank 9",
+        imag: "https://img.playstationtrophies.org/images/trophies/7524/8dbcfa5d-d7af-4e73-9897-180b3e6c9b26.jpg"
+    },{
+        game: "Sekiro: Shadows Die Twice",
+        name: "Genichiro Ashina",
+        desc: "Defeated Genichiro Ashina",
+        imag: "https://img.playstationtrophies.org/images/trophies/7514/e7e.jpg"
     }]
 },{
     listName: "Sellers' Sneaky Souls Collection",
