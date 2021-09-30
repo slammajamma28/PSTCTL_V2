@@ -11079,7 +11079,7 @@ var lists = [{
         desc: "Achieving 90% and above for all songs at the Karaoke Bars in HK.",
         imag: "http://www.playstationtrophies.org/images/trophies/1378/58B.jpg"
     },{
-        game: "The Last of Us",
+        game: "The Last of Us: Left Behind",
         name: "Skillz",
         desc: "Win the water gun fight",
         imag: "http://www.playstationtrophies.org/images/trophies/1317/af8.jpg"
