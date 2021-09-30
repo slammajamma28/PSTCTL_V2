@@ -9924,7 +9924,7 @@ var lists = [{
         desc: "Garrote 30 enemies",
         imag: "https://www.playstationtrophies.org/images/trophies/6/005.jpg"
     },{
-        game: "Assassins Creed Origins",
+        game: "Assassin's Creed Origins",
         name: "The Arrow Whisperer",
         desc: "Kill an enemy with the predator bow from more than 60 meters while controlling the arrow",
         imag: "https://www.playstationtrophies.org/images/trophies/5865/dac.jpg"
