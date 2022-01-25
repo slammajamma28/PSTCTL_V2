@@ -1490,6 +1490,211 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/2535/911.jpg"
     }]
 },{
+    listName: "Best of PSVR Custom List",
+    banner: "https://i.imgur.com/XSE2ghh.png",
+    award: "https://www.playstationtrophies.org/forum/uploads/monthly_2022_01/PSVRCustomList.png.64c79588b65c1a33497df1bdefd3e124.png",
+    trophies: [{
+        game: "Accounting+",
+        name: "TROPHY FM",
+        desc: "Tune into our show!",
+        imag: "https://img.playstationtrophies.org/images/2017/12/19/trophy/c2dc3dcc477d512ad5453d5d90eb9dc8-m.png"
+    },{
+        game: "A Fisherman's Tale",
+        name: "Superior protection for a healthy mouth !",
+        desc: "Get these shark teeth all shiny and clean!",
+        imag: "https://img.playstationtrophies.org/images/2021/04/09/trophy/0c9336dbc0263a620f1aef4e962b6e1c-m.png"
+    },{
+        game: "Astro Bot: Rescue Mission",
+        name: "Blrgggbl!!",
+        desc: "Splashed yourself with the water gadget",
+        imag: "https://img.playstationtrophies.org/images/2018/10/02/trophy/92f2b84da97cde973e61462ef179262c-m.png"
+    },{
+        game: "Arizona Sunshine",
+        name: "So Sqhuishy",
+        desc: "Throw a duck",
+        imag: "https://img.playstationtrophies.org/images/2017/06/27/trophy/456f8f0c83cdacf6aa0de88b50103903-m.png"
+    },{
+        game: "Batman: Arkham VR",
+        name: "Catch Me If You Can",
+        desc: "Activate thrusters on a Bat vehicle",
+        imag: "https://img.playstationtrophies.org/images/2016/10/13/trophy/86c8a61eb1b68c888c8a559562c6047b-m.png"
+    },{
+        game: "Beat Saber",
+        name: "You Are Ready",
+        desc: "Finish the tutorial.",
+        imag: "https://img.playstationtrophies.org/images/2018/11/20/trophy/f3b558bbecd1ff241ca1cd53fcb09ed5-m.png"
+    },{
+        game: "Blood & Truth",
+        name: "Ride the Current",
+        desc: "Devil horn hand gesture while being electrocuted",
+        imag: "https://img.playstationtrophies.org/images/2019/05/28/trophy/5cecd96d70a6c59f6d2a6e74930e289f-m.png"
+    },{
+        game: "Creed: Rise to Glory",
+        name: "One Hand Behind Your Back",
+        desc: "Win a Fight With One Hand Behind Your Back in Career Mode or Free Play",
+        imag: "https://img.playstationtrophies.org/images/2018/09/25/trophy/02d7077a2564d6a2baa655d186b30327-m.png"
+    },{
+        game: "DOOM VFR",
+        name: "What did you Expect?",
+        desc: "Telefrag into a Possessed Engineer and explode",
+        imag: "https://img.playstationtrophies.org/images/2017/12/01/trophy/91fd10ac4bd7f9f2313788107035fe3a-m.png"
+    },{
+        game: "Everybody's Golf VR",
+        name: "My First Hole-In-One!",
+        desc: "Got a hole-in-one",
+        imag: "https://img.playstationtrophies.org/images/2021/02/04/trophy/2add17fecb89fd697c952bdc5dba5af2-m.png"
+    },{
+        game: "GORN",
+        name: "Master Entertainment",
+        desc: "Defeat Badgermancer",
+        imag: "https://img.playstationtrophies.org/images/2021/03/03/trophy/76415b598bdab55f059c106a037e4fad-m.png"
+    },{
+        game: "Ghost Giant",
+        name: "Taco Cat",
+        desc: "Cat Taco.",
+        imag: "https://img.playstationtrophies.org/images/2019/04/16/trophy/1198e495a3d1f7839d4d9937d96248f0-m.png"
+    },{
+        game: "I Expect You To Die 2: The Spy and the Liar",
+        name: "High Class",
+        desc: "Discover all souvenirs in level 2",
+        imag: "https://img.playstationtrophies.org/images/2021/08/24/trophy/1425657115d36c39e22e847e1350bcda-m.png"
+    },{
+        game: "Job Simulator",
+        name: "Soupception",
+        desc: "Make soup with soup in it",
+        imag: "https://img.playstationtrophies.org/images/2016/10/13/trophy/e62410372433afb3ceb929df2bd54f93-m.png"
+    },{
+        game: "Just In Time Incorporated",
+        name: "Demolition Man",
+        desc: "Blow up both tower guards before they are 'sniped' in Bridge Escort.",
+        imag: "https://img.playstationtrophies.org/images/2021/02/08/trophy/bba9d27d88aa78bb6935f07397ae9549-m.png"
+    },{
+        game: "L.A. Noire: The VR Case Files",
+        name: "In Your Face",
+        desc: "Land 50 slaps while brawling.",
+        imag: "https://img.playstationtrophies.org/images/2021/05/09/trophy/cb5c3ea77b4544378d8165f82bdbff4a-m.png"
+    },{
+        game: "Marvel's Iron Man VR",
+        name: "Jazz Hands",
+        desc: "Destroy two enemies with Repulsors simultaneously—one with each hand.",
+        imag: "https://img.playstationtrophies.org/images/2021/04/07/trophy/b16c545bb8b5e5ad358a4792f52ab504-m.png"
+    },{
+        game: "Moss",
+        name: "Nice work, friend!",
+        desc: "Give Quill a high five.",
+        imag: "https://img.playstationtrophies.org/images/2018/02/27/trophy/6442e3bd4c69fc78687b793bb7faad60-m.png"
+    },{
+        game: "Pistol Whip",
+        name: "Gun Kata",
+        desc: "Finish any scene on Hard while using 'Dual Pistols' style",
+        imag: "https://img.playstationtrophies.org/images/2021/05/05/trophy/18e4db685f756e1e61db35271834a0b1-m.png"
+    },{
+        game: "Pixel Ripped 1995",
+        name: "Christmas freakout",
+        desc: "Freakout like is Christmas in 1995",
+        imag: "https://img.playstationtrophies.org/images/2021/03/01/trophy/4fc01f324f697ea8b78e9288e49018b4-m.png"
+    },{
+        game: "Prison Boss VR",
+        name: "Shit It's Already Christmas",
+        desc: "Spend 30 days in a prison.",
+        imag: "https://img.playstationtrophies.org/images/2018/12/04/trophy/1da01d1de9d63e1b3fd7b014e6ccf3f1-m.png"
+    },{
+        game: "Psychonauts in the Rhombus of Ruin",
+        name: "Fire in the Hole!",
+        desc: "Help Coach out... with fire",
+        imag: "https://img.playstationtrophies.org/images/2017/02/21/trophy/df06819ea9c0116136acf6b88e659f7e-m.png"
+    },{
+        game: "Song in the Smoke",
+        name: "You Rock",
+        desc: "Destroy a Rock pile",
+        imag: "https://img.playstationtrophies.org/images/2021/10/07/trophy/3d546feab2009da20db256821880f605-m.png"
+    },{
+        game: "Statik",
+        name: "Smileyface",
+        desc: "You are unbearably positiveP",
+        imag: "https://img.playstationtrophies.org/images/2017/04/24/trophy/fd77905418586f3c85c687268159814b-m.png"
+    },{
+        game: "Superhot VR",
+        name: "Slice & dice",
+        desc: "Cut a few bullets in a row using a bladed weapon.",
+        imag: "https://img.playstationtrophies.org/images/2017/07/19/trophy/3a00797a1413fa17e79e76116e90d9c8-m.png"
+    },{
+        game: "The Playroom VR",
+        name: "Welcome to VR!",
+        desc: "Fire your first rocket and step into the magical world of VR!",
+        imag: "https://img.playstationtrophies.org/images/2016/10/10/trophy/c9aef0e6e29d4e2ff4f30f2164952243-m.png"
+    },{
+        game: "The Room VR: A Dark Matter",
+        name: "Final Escape",
+        desc: "Complete the game",
+        imag: "https://img.playstationtrophies.org/images/2021/03/04/trophy/acb4e57abdb79efa9a5068d43b761b7d-m.png"
+    },{
+        game: "The Walking Dead: Saints and Sinners",
+        name: "Screw's Loose",
+        desc: "Brain 20 walkers with a screw driver",
+        imag: "https://img.playstationtrophies.org/images/2021/01/03/trophy/351f246a860a8d379bf37fd64f4df77f-m.png"
+    },{
+        game: "Trover Saves the Universe",
+        name: "Here's a damn trophy, now stop killing me!",
+        desc: "Jump Trover into the Acid Lake 5 times. How is this even a trophy?",
+        imag: "https://img.playstationtrophies.org/images/2019/05/31/trophy/2398e8807f81f06e8153df81a0518ae2-m.png"
+    },{
+        game: "Until Dawn: Rush of Blood",
+        name: "For my next trick",
+        desc: "Get killed by a sawblade",
+        imag: "https://img.playstationtrophies.org/images/2016/10/13/trophy/360ee5cf95255d7fbf90a37dec793de4-m.png"
+    },{
+        game: "Island Time VR",
+        name: "A Secret Blend of Herbs and Spices",
+        desc: "Cook a seagull",
+        imag: "https://img.playstationtrophies.org/images/2018/04/03/trophy/4a64d0b12d3c2394d9ee88073822c0d1-m.png"
+    },{
+        game: "Paper Beast",
+        name: "Up",
+        desc: "Tie a balloon to a Predator",
+        imag: "https://img.playstationtrophies.org/images/2021/04/02/trophy/edb6171ffcd4d1bf5941b5dd79cf312e-m.png"
+    },{
+        game: "Squishies",
+        name: "Ice to meet you",
+        desc: "Have a Squishy eat an Ice fruit.",
+        imag: "https://img.playstationtrophies.org/images/2018/11/20/trophy/95f71eadb90264469d5abe6778bdeed0-m.png"
+    },{
+        game: "Tiny Trax",
+        name: "Freediver",
+        desc: "Dunk your head underwater in the Shipwreck Island single race",
+        imag: "https://img.playstationtrophies.org/images/2021/04/05/trophy/1410ea8a8a3759971535994085b3f07a-m.png"
+    },{
+        game: "Until You Fall",
+        name: "On the Wings of the Knight",
+        desc: "Launch a defeated opponent 10 meters into the air",
+        imag: "https://img.playstationtrophies.org/images/2021/01/07/trophy/b53ad381d71a08d1207b9593201d2041-m.png"
+    },{
+        game: "Keep Talking and Nobody Explodes",
+        name: "Experience is the Best Teacher",
+        desc: "Disarm each type of module at least once.",
+        imag: "https://img.playstationtrophies.org/images/2016/10/13/trophy/ac46f2822ddb928ce8625b0a1fc36b21-m.png"
+    },{
+        game: "No Man's Sky",
+        name: "What Mad Universe",
+        desc: "Attain ‘Ambassador’ status in Alien Colonist Encounters",
+        imag: "https://img.playstationtrophies.org/images/2016/08/10/trophy/edbe14bfc7d746ef92b938e234777b2c-m.png"
+    },{
+        game: "Resident Evil 7: Biohazard",
+        name: "Things Got Personal",
+        desc: "Finish off an enemy with the knife.",
+        imag: "https://img.playstationtrophies.org/images/2017/01/24/trophy/f6610fb22c4f9494675102bf186649d9-m.png"
+    },{
+        game: "The Persistence",
+        name: "Not Feeling Myself…",
+        desc: "Print a clone of any other crew member",
+        imag: "https://img.playstationtrophies.org/images/2018/07/24/trophy/0c585badd4d2059748c477b79b058ded-m.png"
+    },{
+        game: "XING: The Land Beyond",
+        name: "Ohh Banana!",
+        desc: "Find and pick up the golden banana. Insert monkey grunting noises.",
+        imag: "https://img.playstationtrophies.org/images/2021/04/03/trophy/c1e698ea0c42935267efb3f2738a8659-m.png"
+    }]
+},{
     listName: "Aeirou's Virtual Murder Club",
     banner: "http://i.imgur.com/eZJLWU1.png",
     award: "http://i.imgur.com/G0DzSFM.jpg",
