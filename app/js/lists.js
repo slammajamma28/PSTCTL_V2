@@ -1760,7 +1760,7 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/2778/cdd.jpg"
     },{
         game: "Hotline Miami",
-        name: "Two Birds With One Stone",
+        name: "Two Birds With One Stone (h)",
         desc: "Hit two enemies with the same brick in one throw",
         imag: "http://www.playstationtrophies.org/images/trophies/1923/6B3.jpg"
     },{
