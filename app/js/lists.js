@@ -3655,6 +3655,161 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/4477/c3e.jpg"
     }]
 },{
+    listName: "Deceiver's Games That Just Hit Different",
+    banner: "https://i.imgur.com/WfwbkNh.png",
+    award: "https://www.playstationtrophies.org/forum/uploads/monthly_2022_11/DesuCL.png.38fe6889ee1d5efdb2d4cbeeaffa90cd.png",
+    trophies: [{
+        game: "Atelier Sophie: The Alchemist of the Mysterious Book",
+        name: "Platcha with Delight",
+        desc: "Please Plachta by \"Dollmake\".",
+        imag: "https://img.playstationtrophies.org/images/2021/03/05/trophy/7ae99c4f4af33d96c52be87de37ba85c-m.png"
+    },{
+        game: "Bloodborne",
+        name: "Lady Maria of the Astral Clocktower",
+        desc: "Defeat Lady Maria of the Astral Clocktower.",
+        imag: "https://img.playstationtrophies.org/images/2015/03/27/trophy/d6f5e9e5dcfc2d9735ad26d73df24867-m.png"
+    },{
+        game: "Bound By Flame",
+        name: "Erudite Love",
+        desc: "Seduce Sybil",
+        imag: "https://img.playstationtrophies.org/images/2014/05/09/trophy/74c44fe51d69136b2d416e5452b899be-m.png"
+    },{
+        game: "Code Vein",
+        name: "Mia's Memories",
+        desc: "View Mia's memory echoes",
+        imag: "https://img.playstationtrophies.org/images/2019/09/27/trophy/33d8e2bc9f81705f3bf9eb4c0286fbea-m.png"
+    },{
+        game: "Cyberdimension Neptunia: 4 Goddesses Online",
+        name: "An Important Shot",
+        desc: "Noire and Uni's hearts pounded.",
+        imag: "https://img.playstationtrophies.org/images/2017/10/13/trophy/77857293f3afe88e7a161924b729da89-m.png"
+    },{
+        game: "Darkest Dungeon",
+        name: "A drink, a hand, and a companion...",
+        desc: "Treat a hero in the Tavern",
+        imag: "https://img.playstationtrophies.org/images/2016/09/27/trophy/4436f98bb1ee66abf561c218937b796e-m.png"
+    },{
+        game: "Dark Souls III",
+        name: "The End of Fire",
+        desc: "Reach \"The End of Fire\" ending.",
+        imag: "https://img.playstationtrophies.org/images/2016/04/12/trophy/22d0b9b275a7e4d99b6581d99580afea-m.png"
+    },{
+        game: "Death end re;Quest",
+        name: "Honey, Bee Careful!",
+        desc: "View Lily's ending.",
+        imag: "https://img.playstationtrophies.org/images/2021/03/02/trophy/ee907edc6aeb591adb5e7e9d6f18ffd8-m.png"
+    },{
+        game: "Deception IV: The Nightmare Princess",
+        name: "The Other Princess takes the flesh and soul of Laegrinna, Princess of Darkness, and becomes servant to Velguirie.",
+        desc: "Get Laegrinna as a playable character in Quest Mode.",
+        imag: "https://img.playstationtrophies.org/images/2015/07/17/trophy/988a6bcf7c9d9e432dc972274016ff46-m.png"
+    },{
+        game: "Dragon's Crown",
+        name: "Epic Elf",
+        desc: "Complete the game as an Elf.",
+        imag: "https://img.playstationtrophies.org/images/2013/10/11/trophy/966fd6f0f210f150d74d1aaa50a22fe5-m.png"
+    },{
+        game: "Dungeons III",
+        name: "Thirst Quencher",
+        desc: "Own more than 42 Barrels of Beer at the same time in the mission \"The Hungry, Hungry Ogre\".",
+        imag: "https://img.playstationtrophies.org/images/2017/10/17/trophy/21122472b38ae2ffc3969975f8bfdcc9-m.png"
+    },{
+        game: "Elden Ring",
+        name: "Age of the Stars",
+        desc: "Achieved the \"Age of the Stars\" ending",
+        imag: "https://img.playstationtrophies.org/images/2022/02/24/trophy/2fc23d8c46291c485185271f8b222ff2-m.png"
+    },{
+        game: "Fate/Extella: The Umbral Star",
+        name: "Curry Rice of Bliss",
+        desc: "Cleared the Orchid Poem arc.",
+        imag: "https://img.playstationtrophies.org/images/2017/01/20/trophy/00220f8649471d9be63350ca3a67f901-m.png"
+    },{
+        game: "Hollow Knight",
+        name: "Proof of Resolve",
+        desc: "Defeat Hornet in Kingdom's Edge",
+        imag: "https://img.playstationtrophies.org/images/2018/09/25/trophy/18fd1093ac41d44581b661644e7feeca-m.png"
+    },{
+        game: "King's Quest",
+        name: "Harmonious Husband",
+        desc: "Gave the perfect present to Neese.",
+        imag: "https://img.playstationtrophies.org/images/2021/03/09/trophy/0219901ae226e147de494326f6467468-m.png"
+    },{
+        game: "Monster Hunter World",
+        name: "Snuggles for All",
+        desc: "Capture a fluffy, snuggly creature.",
+        imag: "https://img.playstationtrophies.org/images/2018/01/26/trophy/e1f09331e8d4fbd9bdf7731d5d0fdcd2-m.png"
+    },{
+        game: "NieR: Automata",
+        name: "What Are You Doing?",
+        desc: "2B's secret discovered 10 times.",
+        imag: "https://img.playstationtrophies.org/images/2017/03/10/trophy/f637f251051b09977d0fa96bc12381de-m.png"
+    },{
+        game: "Nights of Azure",
+        name: "Nightmare Queen",
+        desc: "Transformed into the 'Nightmare form'.",
+        imag: "https://img.playstationtrophies.org/images/2016/04/01/trophy/fd1384882968bd659d0d3cb2aa852194-m.png"
+    },{
+        game: "Odin Sphere Leifthrasir",
+        name: "Velvet Ending",
+        desc: "Completed Velvet's tale.",
+        imag: "https://img.playstationtrophies.org/images/2016/06/24/trophy/7f6453468dc2c108f9ea7e553b14eaeb-m.png"
+    },{
+        game: "Persona 5",
+        name: "My Best Partner",
+        desc: "Enter a special relationship with someone.",
+        imag: "https://img.playstationtrophies.org/images/2021/01/02/trophy/083ccb648afdf94bbad032d342ddb838-m.png"
+    },{
+        game: "Senran Kagura: Estival Versus",
+        name: "Off with the Mask",
+        desc: "Completed all of Murakumo's missions in Shinobi Girl's Heart.",
+        imag: "https://img.playstationtrophies.org/images/2016/03/18/trophy/40654fbe1a87cb9e2c624883c925440c-m.png"
+    },{
+        game: "Steins;Gate",
+        name: "Isolated Jamais Vu",
+        desc: "Reached Faris's ending.",
+        imag: "https://img.playstationtrophies.org/images/2021/03/07/trophy/7555164690669b9a7c26f7b9cec790e9-m.png"
+    },{
+        game: "Tales of Arise",
+        name: "Intertwining Hearts",
+        desc: "Forge a strong bond with Shionne, sharing your first meal together again, and plenty more...",
+        imag: "https://img.playstationtrophies.org/images/2021/09/07/trophy/899e11a51cfe6bc3e34b6195c00bc003-m.png"
+    },{
+        game: "The Bard's Tale",
+        name: "Enchantress Tune",
+        desc: "Learned the song of the Enchantress",
+        imag: "https://img.playstationtrophies.org/images/2017/08/17/trophy/e4e8e7e846ecb09cc03cb18a4dd43dea-m.png"
+    },{
+        game: "Skyrim",
+        name: "Married",
+        desc: "Get married",
+        imag: "https://img.playstationtrophies.org/images/2011/11/11/trophy/c227f35174ad3d4a5f598bcd4d93bc81-m.png"
+    },{
+        game: "The Legend of Heroes: Trails of Cold Steel",
+        name: "R is for Romance",
+        desc: "Forged a strong bond with Alisa.",
+        imag: "https://img.playstationtrophies.org/images/2016/01/29/trophy/03d406a54bc5500510519cc5d8a243dc-m.png"
+    },{
+        game: "The Witcher 3: Wild Hunt",
+        name: "Friends With benefits",
+        desc: "Complete the subplot involving Keira Metz.",
+        imag: "https://img.playstationtrophies.org/images/2015/05/19/trophy/255840c7378ecf4d85afac3ac9e544a2-m.png"
+    },{
+        game: "Warframe",
+        name: "Octavia's Anthem",
+        desc: "Complete Octavia's Anthem Quest",
+        imag: "https://img.playstationtrophies.org/images/2013/11/29/trophy/05fa3278d269c646c5f112eeb13f125b-m.png"
+    },{
+        game: "Warhammer: Chaosbane",
+        name: "The forest can now breathe",
+        desc: "Finish the game as Elessa",
+        imag: "https://img.playstationtrophies.org/images/2021/01/08/trophy/626c14929405854e93681fcb8385d717-m.png"
+    },{
+        game: "Warriors All-Stars",
+        name: "Hail Tamaki, the new Queen",
+        desc: "Led Tamaki to become the new ruler.",
+        imag: "https://img.playstationtrophies.org/images/2017/09/01/trophy/3eaa257e0fa291718a1691734748073c-m.png"
+    }]
+},{
     listName: "Doctor Bink's Trophy Laboratory",
     banner: "http://i.imgur.com/U8OHKla.png",
     award: "http://i.imgur.com/en7lL9S.jpg",
