@@ -10430,6 +10430,161 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/2541/7cd.jpg"
     }]
 },{
+    listName: "staytrue's Speedy Selection",
+    banner: "https://i.imgur.com/AHBfpaa.jpeg",
+    award: "https://i.imgur.com/VaHlCv0.png",
+    trophies: [{
+        game: "Absolute Drift: Zen Edition",
+        name: "Drift Line Master",
+        desc: "Execute 10 perfect drift lines",
+        imag: "https://img.playstationtrophies.org/images/2016/08/16/trophy/1261a8a9c7c2ced3afbc38595455250d-m.png"
+    },{
+        game: "Beach Buggy Racing",
+        name: "Really I'm Helping",
+        desc: "Freeze an opponent who's on fire",
+        imag: "https://img.playstationtrophies.org/images/2021/04/01/trophy/c35d24e1bec88f710582f04e8d4e0c2b-m.png"
+    },{
+        game: "Bears Can't Drift",
+        name: "Faster than the average bear!",
+        desc: "Get a top time on any track.",
+        imag: "https://img.playstationtrophies.org/images/2016/08/09/trophy/fd53b1ad28a60dbde52a5fe49c62397f-m.png"
+    },{
+        game: "Burnout Paradise",
+        name: "Drive on the wrong side of the road for 547 yards",
+        desc: "Awarded for driving a distance of 547 yards in Oncoming Traffic in one go",
+        imag: "https://img.playstationtrophies.org/images/2008/01/25/trophy/7caa1d06b2e112253c02a60a6f9016f2-m.png"
+    },{
+        game: "Concept Destruction",
+        name: "The Champion",
+        desc: "Win the Championship",
+        imag: "https://img.playstationtrophies.org/images/trophies/10622/936528db-706a-403e-9ab7-8d04e31163a2.jpg"
+    },{
+        game: "Crazy Chicken Kart 2",
+        name: "Farm",
+        desc: "Win the Farm Level",
+        imag: "https://img.playstationtrophies.org/images/2022/03/28/trophy/1d325c4d9136b9e48f72b1dcd70ac97f-m.png"
+    },{
+        game: "Danger Zone 2",
+        name: "Big K",
+        desc: "Crash 2000 cars",
+        imag: "https://img.playstationtrophies.org/images/trophies/7649/7c4.jpg"
+    },{
+        game: "Dangerous Driving",
+        name: "Another Cinderella Story...",
+        desc: "Win a Takedown Race after being in last place on the last lap",
+        imag: "https://img.playstationtrophies.org/images/2019/04/09/trophy/9cd44788864cdc9b6161f5f12c873fce-m.png"
+    },{
+        game: "FIA European Truck Racing Championship",
+        name: "A mechanic's dream",
+        desc: "Win a race without taking any body damage",
+        imag: "https://img.playstationtrophies.org/images/2021/01/08/trophy/635bfee73bc0c6b08c956666acf03e19-m.png"
+    },{
+        game: "Garfield Kart: Furious Racing",
+        name: "Combination sensation",
+        desc: "Use all the perfect combos in a race",
+        imag: "https://img.playstationtrophies.org/images/2021/04/01/trophy/2b176077e6745f5c6721426e38a6974e-m.png"
+    },{
+        game: "Gran Turismo 7",
+        name: "Hard Work Pays Off",
+        desc: "Earned Gold in all licenses.",
+        imag: "https://img.playstationtrophies.org/images/2022/03/02/trophy/6c9557a77e83fc0cfd480d03b8b9d08f-m.png"
+    },{
+        game: "Grip: Combat Racing",
+        name: "It's a play on words. Get it?",
+        desc: "Finish a carkour course",
+        imag: "https://img.playstationtrophies.org/images/2018/11/06/trophy/65cbb52203e1ed5b5a0f39d035e63d92-m.png"
+    },{
+        game: "Hero Express",
+        name: "Pathway to Nirvana",
+        desc: "Reach the end of the Himalaya track",
+        imag: "https://img.playstationtrophies.org/images/trophies/9280/73d.jpg"
+    },{
+        game: "Horizon Chase Turbo",
+        name: "That Was Close",
+        desc: "Win a race with less than 0.1s of difference from the runner-up",
+        imag: "https://img.playstationtrophies.org/images/trophies/7362/96b.jpg"
+    },{
+        game: "Jak X Combat Racing",
+        name: "Kill or be Killed",
+        desc: "Earn 4 kills in a Circuit race without dying once.",
+        imag: "https://img.playstationtrophies.org/images/2017/12/06/trophy/ab814a1133cbab7399662ac349c4258d-m.png"
+    },{
+        game: "Meow Motors",
+        name: "Just one on one",
+        desc: "Defeat the main villain.",
+        imag: "https://img.playstationtrophies.org/images/2021/04/08/trophy/6bc76ed31f759eb1dfe87b06ddf2d764-m.png"
+    },{
+        game: "Monster Jam Steel Titans",
+        name: "Long Jumper",
+        desc: "Jump a distance greater than 237.7 feet (72.42m)",
+        imag: "https://img.playstationtrophies.org/images/2019/06/25/trophy/262969cc7521e3b14f2815ed3f7b6303-m.png"
+    },{
+        game: "MXGP 3",
+        name: "No cheats!",
+        desc: "Win a race without using the Rewind in any Single Player game mode",
+        imag: "https://img.playstationtrophies.org/images/2021/01/06/trophy/182eb647eb9ff31b5b654e6ae31e6f48-m.png"
+    },{
+        game: "Nickelodeon Kart Racers",
+        name: "Warrior",
+        desc: "Compete in the Arena for the first time.",
+        imag: "https://img.playstationtrophies.org/images/trophies/7709/254.jpg"
+    },{
+        game: "Petite Adventure",
+        name: "Dumb Domino",
+        desc: "Complete a level with a domino challenge",
+        imag: "https://img.playstationtrophies.org/images/2022/12/09/trophy/a82601540f3fd57286ab713be55ad1e3-m.png"
+    },{
+        game: "Rally Cross",
+        name: "Wrong Way Highway",
+        desc: "In Single Race mode, finish a Suicide race.",
+        imag: "https://img.playstationtrophies.org/images/2024/01/16/trophy/3a3923310fff8e3d1074e916227e8857-m.png"
+    },{
+        game: "Retro Highway",
+        name: "Get Out Of My Way",
+        desc: "Run over 5 road workers",
+        imag: "https://img.playstationtrophies.org/images/2022/04/24/trophy/6bf9ff873ccdc299635c47dc93026811-m.png"
+    },{
+        game: "Riptide GP 2",
+        name: "Still Counts",
+        desc: "Win a race without the rider",
+        imag: "https://img.playstationtrophies.org/images/2021/01/08/trophy/84a517488d8d9b7bd066893eec746c58-m.png"
+    },{
+        game: "Rocket League",
+        name: "Clean Sheet",
+        desc: "Win a game without giving up a single Goal",
+        imag: "https://img.playstationtrophies.org/images/2015/07/07/trophy/6b182737c3c43836aa02f80bc92646e0-m.png"
+    },{
+        game: "Super Box Delivery: Beyond the Horizon",
+        name: "Employee of the Month",
+        desc: "Get 10 000 points in a single run",
+        imag: "https://img.playstationtrophies.org/images/2023/07/27/trophy/b98919985c81a3e31ad71096ad79ee34-m.png"
+    },{
+        game: "Super Woden GP",
+        name: "Future champion",
+        desc: "Win your first race.",
+        imag: "https://img.playstationtrophies.org/images/2022/10/28/trophy/4dd4027b2199f973a3f341da6d115dbe-m.png"
+    },{
+        game: "Taxi Chaos",
+        name: "Generic Motors Company",
+        desc: "Unlock the Generic Motors B10",
+        imag: "https://img.playstationtrophies.org/images/2021/02/23/trophy/1cf5072960fa5650b634f71f9f3cdabf-m.png"
+    },{
+        game: "Twisted Metal",
+        name: "Tank You for the Memories",
+        desc: "Complete the final round and defeat Minion.",
+        imag: "https://img.playstationtrophies.org/images/2023/07/18/trophy/774c66f60bbb28cf69d9cf5da68fac66-m.png"
+    },{
+        game: "WRC 10",
+        name: "Nocturnal",
+        desc: "Win 5 Night Special Stages in Career mode",
+        imag: "https://img.playstationtrophies.org/images/2021/08/25/trophy/3784c7cedcbadc463be81ef2265dc3db-m.png"
+    },{
+        game: "Wreckfest",
+        name: "Maniac Driver",
+        desc: "Wreck 50 Opponents With School Bus.",
+        imag: "https://img.playstationtrophies.org/images/2019/08/27/trophy/3dcb5ae7d58565786fb505db4f1668a0-m.png"
+    }]
+},{
     listName: "Sylar's Super List",
     banner: "http://www.playstationtrophies.org/images/news/cl_banner_sylar.png",
     award: "http://i.imgur.com/wwthqeC.png",
