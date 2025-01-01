@@ -1492,7 +1492,7 @@ var lists = [{
 },{
     listName: "Best of PSVR Custom List",
     banner: "https://i.imgur.com/XSE2ghh.png",
-    award: "https://img.playstationtrophies.org/forum/uploads/monthly_2022_01/PSVRCustomList.png.64c79588b65c1a33497df1bdefd3e124.png",
+    award: "https://www.playstationtrophies.org/forum/uploads/monthly_2022_01/PSVRCustomList.png.64c79588b65c1a33497df1bdefd3e124.png",
     trophies: [{
         game: "Accounting+",
         name: "TROPHY FM",
@@ -3657,7 +3657,7 @@ var lists = [{
 },{
     listName: "Deceiver's Games That Just Hit Different",
     banner: "https://i.imgur.com/WfwbkNh.png",
-    award: "https://img.playstationtrophies.org/forum/uploads/monthly_2022_11/DesuCL.png.38fe6889ee1d5efdb2d4cbeeaffa90cd.png",
+    award: "https://www.playstationtrophies.org/forum/uploads/monthly_2022_11/DesuCL.png.38fe6889ee1d5efdb2d4cbeeaffa90cd.png",
     trophies: [{
         game: "Atelier Sophie: The Alchemist of the Mysterious Book",
         name: "Platcha with Delight",
