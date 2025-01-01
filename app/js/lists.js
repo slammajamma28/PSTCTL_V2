@@ -2442,7 +2442,7 @@ var lists = [{
 },{
     listName: "Bounty V's I Game 4GOD List",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_bounty.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_bounty64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_bounty64.png",
     trophies: [{
         game: "Ace Combat: Assault Horizon",
         name: "Fearsome Guardian",
@@ -2622,7 +2622,7 @@ var lists = [{
 },{
     listName: "Bread's ''Y U No Play These Gamez?!''",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_bread.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_breadskin64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_breadskin64.png",
     trophies: [{
         game: "3D Dot Game Heroes",
         name: "That's a Big Fat Sword!",
@@ -4172,7 +4172,7 @@ var lists = [{
 },{
     listName: "Fletch's ''Valar Morghulis''",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_fletch.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_fletchar64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_fletchar64.png",
     trophies: [{
         game: "Assassin's Creed III",
         name: "Jager Bomb",
@@ -4352,7 +4352,7 @@ var lists = [{
 },{
     listName: "Football's Favourites",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_football.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_football64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_football64.png",
     trophies: [{
         game: "Assassin's Creed II",
         name: "High Dive",
@@ -4712,7 +4712,7 @@ var lists = [{
 },{
     listName: "Germain's Japanese Gems",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_germain.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_germain64.jpg",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_germain64.jpg",
     trophies: [{
         game: "3D Dot Game Heroes",
         name: "And Everyone Lived Happily Ever After!",
@@ -5087,7 +5087,7 @@ var lists = [{
 },{
     listName: "Glenn's Comedy Club of Trophies",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_glenn.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_glenn64.jpg",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_glenn64.jpg",
     trophies: [{
         game: "Assassin's Creed II",
         name: "Fly Swatter",
@@ -5642,7 +5642,7 @@ var lists = [{
 },{
     listName: "Irvine's Idyllic Inventory of Trophies",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_irvine.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_irvine64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_irvine64.png",
     trophies: [{
         game: "Ape Escape 2",
         name: "Hat-trick",
@@ -6347,7 +6347,7 @@ var lists = [{
 },{
     listName: "Krid's Korrupt Kollection",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_krid.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_krid64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_krid64.png",
     trophies: [{
         game: "Assassin's Creed II",
         name: "Red Light Addict",
@@ -6507,7 +6507,7 @@ var lists = [{
 },{
     listName: "Lab's ''Did Someone Say Chimichanga?'' List",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_lab.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_labartu64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_labartu64.png",
     trophies: [{
         game: "Assassin's Creed IV Black Flag",
         name: "Hungover",
@@ -7207,7 +7207,7 @@ var lists = [{
 },{
     listName: "Moosh's Trophy Train Wreck",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_moosh.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_moosh64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_moosh64.png",
     trophies: [{
         game: "Assassin's Creed IV Black Flag",
         name: "Siren Song",
@@ -7387,7 +7387,7 @@ var lists = [{
 },{
     listName: "Mulli's Honey Badger Don't Care About Your Trophies",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_mulli.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_mulli64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_mulli64.png",
     trophies: [{
         game: "Alien: Isolation",
         name: "100 Times Too Many",
@@ -8237,7 +8237,7 @@ var lists = [{
 },{
     listName: "Pain's Disturbingly Sweet Demise",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_pod.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_pod64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_pod64.png",
     trophies: [{
         game: "Alpha Protocol",
         name: "Judge, Jury, and Executioner",
@@ -8572,7 +8572,7 @@ var lists = [{
 },{
     listName: "Phantom's ''Odds and Sods'' List",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_phantom.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_dp64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_dp64.png",
     trophies: [{
         game: "Army of Two: The Devil's Cartel",
         name: "Army Of TWO",
@@ -9357,7 +9357,7 @@ var lists = [{
 },{
     listName: "Sav's: For the Love of Platinum",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_sav.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_sav64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_sav64.png",
     trophies: [{
         game: "Assassin's Creed II",
         name: "Show your Colors",
@@ -9907,7 +9907,7 @@ var lists = [{
 },{
     listName: "Shadow's ''Box of Variety''",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_shadow.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_shadow64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_shadow64.png",
     trophies: [{
         game: "3D Dot Game Heroes",
         name: "Flawless Hero!",
@@ -10767,7 +10767,7 @@ var lists = [{
 },{
     listName: "Tech's Turrets Syndrome",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_tech.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_tech64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_tech64.png",
     trophies: [{
         game: "Alex Kidd in Miracle World",
         name: "Good Vibrations",
@@ -10922,7 +10922,7 @@ var lists = [{
 },{
     listName: "Terminator's ''Journey to Salvation''",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_terminator.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_terminator64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_terminator64.png",
     trophies: [{
         game: "BioShock",
         name: "Completed Welcome",
@@ -11457,7 +11457,7 @@ var lists = [{
 },{
     listName: "TheManUtdFan's Saints, Sinners and More",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_tmuf.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_tmuf64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_tmuf64.png",
     trophies: [{
         game: "Assassin's Creed II",
         name: "Hallowed be thy name",
@@ -11832,7 +11832,7 @@ var lists = [{
 },{
     listName: "Trik's Troll Toll",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_trik.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_trik64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_trik64.png",
     trophies: [{
         game: "Assassin's Creed IV Black Flag",
         name: "Devil Of The Caribbean",
@@ -12212,7 +12212,7 @@ var lists = [{
 },{
     listName: "Tuff's Muff Licker List",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_tuffmuff.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_tuff64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_tuff64.png",
     trophies: [{
         game: "Battlefield: Bad Company",
         name: "Manic Lumberjack",
@@ -12402,7 +12402,7 @@ var lists = [{
 },{
     listName: "VazzVegas's Gambling and Looting Extravaganza",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_vazz.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_vazz64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_vazz64.png",
     trophies: [{
         game: "Back to the Future: The Game",
         name: "One Bad Apple",
@@ -12782,7 +12782,7 @@ var lists = [{
 },{
     listName: "Vy's Glow in the Dark Role Playing Mix",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_vy.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_vyrastas64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_vyrastas64.png",
     trophies: [{
         game: "Assassin's Creed II",
         name: "Undertaker",
@@ -13122,7 +13122,7 @@ var lists = [{
 },{
     listName: "Xander45's Links to the Past",
     banner: "https://img.playstationtrophies.org/images/news/cl_banner_xander.png",
-    award: "https://img.playstationtrophies.org/forum/images/awards/cl_xander64.png",
+    award: "https://www.playstationtrophies.org/forum/images/awards/cl_xander64.png",
     trophies: [{
         game: "Asura's Wrath",
         name: "It Takes Two",
