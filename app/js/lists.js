@@ -1829,7 +1829,7 @@ var lists = [{
         desc: "Complete 1970 Chinese on Normal.",
         imag: "https://img.playstationtrophies.org/images/2024/09/16/trophy/fd32a8a2dd188a04d9e4f8fb8f78652d-m.png"
     },{
-        game: "Tomb Raider",
+        game: "Tomb Raider I Remastered",
         name: "Do Uzi This One?",
         desc: "Get hidden Uzis in Egypt",
         imag: "https://img.playstationtrophies.org/images/2024/02/13/trophy/3284296fb538e3220cae2d214164a6bb-m.png"
