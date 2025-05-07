@@ -474,7 +474,7 @@ $(document).ready(function () {
         $("#list-header").hide();
         $(".container.trophy_list.top").css("margin-top","20px");
 
-        if(darkMode) {
+        if (localStorage.getItem("dark-mode")) {
             $(".container.trophy_list.top").html("<div class='col-xs-6 dark-mode'><p>Refresh the page to go back.</p></div>" +
                 "<div class='col-xs-2 text center dark-mode'><a href=\"#\" onclick=\"sortByGamesAlpha()\">Sort Alphabetically</a></div>" +
                 "<div class='col-xs-2 text center dark-mode'><a href=\"#\" onclick=\"sortByGamesNumber()\">Sort By Num of Lists</a></div>" +
