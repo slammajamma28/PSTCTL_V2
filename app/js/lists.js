@@ -1696,8 +1696,8 @@ var lists = [{
     }]
 },{
     listName: "Best of 2024 Custom List",
-    banner: "https://i.imgur.com/tCLycCx.png",
-    award: "https://img.playstationtrophies.org/images/2000/01/01/trophy/00000000000000000000000000000001-m.png",
+    banner: "https://i.imgur.com/Ajs1BQN.jpeg",
+    award: "https://www.playstationtrophies.org/forum/uploads/monthly_2025_05/BestOf2024CL.jpeg.03d62b3da4bb94ad60853f971a5edafe.jpeg",
     trophies: [{
         game: "A Little to the Left",
         name: "Fun for Humans Too",
