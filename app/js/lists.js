@@ -1695,6 +1695,186 @@ var lists = [{
         imag: "https://img.playstationtrophies.org/images/2021/04/03/trophy/c1e698ea0c42935267efb3f2738a8659-m.png"
     }]
 },{
+    listName: "Best of 2024 Custom List",
+    banner: "https://i.imgur.com/tCLycCx.png",
+    award: "https://img.playstationtrophies.org/images/2000/01/01/trophy/00000000000000000000000000000001-m.png",
+    trophies: [{
+        game: "A Little to the Left",
+        name: "Fun for Humans Too",
+        desc: "Having a ball with a ball inside a ball",
+        imag: "https://img.playstationtrophies.org/images/2024/02/15/trophy/290f299ba94dc257924fc82cd988c908-m.png"
+    },{
+        game: "Alone in the Dark",
+        name: "Nobody Knows What Happened",
+        desc: "Consider ending it all",
+        imag: "https://img.playstationtrophies.org/images/2024/03/20/trophy/7f5c110b84d0cb19c103629665d79866-m.png"
+    },{
+        game: "Animal Well",
+        name: "MANTICORE",
+        desc: "Release the Manticore",
+        imag: "https://img.playstationtrophies.org/images/2024/05/09/trophy/2e5d1eaf57ff517fc8d231628f31bd24-m.png"
+    },{
+        game: "Another Crab's Treasure",
+        name: "Shellslike",
+        desc: "Find a certain hero's helmet.",
+        imag: "https://img.playstationtrophies.org/images/2024/04/17/trophy/7ec80aa43a42dc493fa31a5f57b6e5ac-m.png"
+    },{
+        game: "Astro Bot",
+        name: "The Golden Bot",
+        desc: "Rescued the Special Master Bot at the top of the Golden Statue.",
+        imag: "https://img.playstationtrophies.org/images/2024/08/30/trophy/f576d0997716ef366db472fa54ee2031-m.png"
+    },{
+        game: "Dave the Diver",
+        name: "Angry Shark!",
+        desc: "Caught first shark.",
+        imag: "https://img.playstationtrophies.org/images/2024/04/16/trophy/c35ce5d2d205781ba93c3a9e7bb28d7a-m.png"
+    },{
+        game: "Dragon Age: The Veilguard",
+        name: "Bringing Down the Sky",
+        desc: "Defeated all high Dragon's across northern Thedas.",
+        imag: "https://img.playstationtrophies.org/images/2024/10/16/trophy/5c16e826640799495c08b72035eba492-m.png"
+    },{
+        game: "Dragon's Dogma 2",
+        name: "Dragon's Dogma",
+        desc: "Obtain Dragon's Dogma",
+        imag: "https://img.playstationtrophies.org/images/2024/03/21/trophy/193436317658d7b8803a029ef2496750-m.png"
+    },{
+        game: "Expeditions: A Mudrunner Game",
+        name: "Arizona Skies",
+        desc: "Complete all expeditions in Arizona",
+        imag: "https://img.playstationtrophies.org/images/2024/02/23/trophy/983e6105f9201bd557e770ebe065196a-m.png"
+    },{
+        game: "Final Fantasy VII Rebirth",
+        name: "Critically Acclaimed",
+        desc: "Receive a review of S or higher for your performance in Loveless at the Gold Saucer.",
+        imag: "https://img.playstationtrophies.org/images/2024/02/28/trophy/30f9c601e2e4dced8b5c0d35c1a1abd6-m.png"
+    },{
+        game: "Flock",
+        name: "The Boffin's Boffin",
+        desc: "Become An Expert In Every Family",
+        imag: "https://img.playstationtrophies.org/images/2024/07/16/trophy/b5299e0067263700724693c6057782df-m.png"
+    },{
+        game: "Like a Dragon: Infinite Wealth",
+        name: "Sicko Stopper",
+        desc: "Completed all Sicko Snap courses.",
+        imag: "https://img.playstationtrophies.org/images/2024/01/25/trophy/1fa433eaa960c54d9f0f32b0d23321f2-m.png"
+    },{
+        game: "Metaphor: ReFantazio",
+        name: "Sword Surfer",
+        desc: "Travelled a significant distance by blade-riding.",
+        imag: "https://img.playstationtrophies.org/images/2024/10/10/trophy/82f80a5617c50888e4db1039bc646d23-m.png"
+    },{
+        game: "Nobody Wants to Die",
+        name: "Restless Hands",
+        desc: "Interact with all objects in the car",
+        imag: "https://img.playstationtrophies.org/images/2024/07/17/trophy/d94108cf7e7b99f98b24f90ba3fc7130-m.png"
+    },{
+        game: "Oddworld: Abe's Exoddus",
+        name: "Auto-Toxic Asphyxiation",
+        desc: "Cause Abe to die from his own fart.",
+        imag: "https://img.playstationtrophies.org/images/2024/06/11/trophy/348812c9f1195ba3d50327d18b4840c5-m.png"
+    },{
+        game: "Pacific Drive",
+        name: "Sleight of Hand",
+        desc: "Distract an Anomaly with a light source",
+        imag: "https://img.playstationtrophies.org/images/2024/02/21/trophy/e5fe847020993572550045081c315ae6-m.png"
+    },{
+        game: "Persona 3 Reload",
+        name: "Benevolent Purr-tector",
+        desc: "Nursed a cat back to full health.",
+        imag: "https://img.playstationtrophies.org/images/2024/01/31/trophy/1ab87ed0dbc04e5f4eb892af00db7819-m.png"
+    },{
+        game: "Prince of Persia: The Lost Crown",
+        name: "An Honorable End",
+        desc: "Defeat a Lost Warrior",
+        imag: "https://img.playstationtrophies.org/images/2024/01/13/trophy/c41f4806b7fa09d9fb1bba2b7b42cf32-m.png"
+    },{
+        game: "Rise of the Ronin",
+        name: "Martial Arts Maniac",
+        desc: "Defeated enemies using every weapon.",
+        imag: "https://img.playstationtrophies.org/images/2024/03/19/trophy/226edb50914bfd7846b4e1656864aea3-m.png"
+    },{
+        game: "Slay the Princess",
+        name: "A new and unending dawn, and everyone hates you.",
+        desc: "Slay the Princess, and make some enemies along the way",
+        imag: "https://img.playstationtrophies.org/images/2024/10/24/trophy/6a963603d23fe9eb50320376a5ccb66b-m.png"
+    },{
+        game: "Star Wars: Dark Forces",
+        name: "Sarlacc’s Snack",
+        desc: "Defeat Boba Fett!",
+        imag: "https://img.playstationtrophies.org/images/2024/02/28/trophy/f8a6d9a3d7afd9bfd228e115fc468655-m.png"
+    },{
+        game: "Stellar Blade",
+        name: "Nano Suit Collector",
+        desc: "Acquired 30 Nano Suits.",
+        imag: "https://img.playstationtrophies.org/images/2024/04/25/trophy/616d26697d38960b87399c483c7fc810-m.png"
+    },{
+        game: "Still Wakes the Deep",
+        name: "Greased Scotsman",
+        desc: "Sprint in all movement modes and traversals",
+        imag: "https://img.playstationtrophies.org/images/2024/06/18/trophy/6b125d7ebde393e802f877662c657743-m.png"
+    },{
+        game: "Tales of Kenzera: ZAU",
+        name: "The End of Another",
+        desc: "Complete Act 4",
+        imag: "https://img.playstationtrophies.org/images/2024/04/09/trophy/597cc2060882688b9f182121f680fa7e-m.png"
+    },{
+        game: "The Plucky Squire",
+        name: "WRETCHED RODENT!!!",
+        desc: "SIMPLY INFURIATING",
+        imag: "https://img.playstationtrophies.org/images/2024/09/11/trophy/ebacccc28a6dd2df4a02be41cfa43232-m.png"
+    },{
+        game: "Timesplitters",
+        name: "Getting Takeout Tonight",
+        desc: "Complete 1970 Chinese on Normal.",
+        imag: "https://img.playstationtrophies.org/images/2024/09/16/trophy/fd32a8a2dd188a04d9e4f8fb8f78652d-m.png"
+    },{
+        game: "Tomb Raider",
+        name: "Do Uzi This One?",
+        desc: "Get hidden Uzis in Egypt",
+        imag: "https://img.playstationtrophies.org/images/2024/02/13/trophy/3284296fb538e3220cae2d214164a6bb-m.png"
+    },{
+        game: "Unicorn Overload",
+        name: "Beware their Rage",
+        desc: "Had a biscuit stolen by a goat.",
+        imag: "https://img.playstationtrophies.org/images/2024/03/07/trophy/6d78849a7bb8de2c7e6a5de2bc233b44-m.png"
+    },{
+        game: "Vampire Survivors",
+        name: "Candybox",
+        desc: "Discover every standard evolution and union.",
+        imag: "https://img.playstationtrophies.org/images/2024/08/29/trophy/3e6b30a91db01a66c31a04840661e046-m.png"
+    },{
+        game: "What The Golf?",
+        name: "Super Putt",
+        desc: "SUPER - PUTT - SUPER - PUTT",
+        imag: "https://img.playstationtrophies.org/images/2024/02/15/trophy/a51ff45f6e5130fc2d42c58d7ae51d08-m.png"
+    },{
+        game: "Balatro",
+        name: "Royale",
+        desc: "Play a Royal Flush",
+        imag: "https://img.playstationtrophies.org/images/2024/02/18/trophy/b7bf6b6fc94badd5695d69107e63be91-m.png"
+    },{
+        game: "Helldivers 2",
+        name: "Hell Dive",
+        desc: "Complete and Extreme difficulty mission or higher without anyone dying.",
+        imag: "https://img.playstationtrophies.org/images/2024/02/07/trophy/10ae4e4ab7eb0fa584fa99695e53e06a-m.png"
+    },{
+        game: "Planet Zoo",
+        name: "Circle of Life",
+        desc: "Have a Juvenile Lion be born in a zoo containing at least 10 species",
+        imag: "https://img.playstationtrophies.org/images/2024/03/26/trophy/75d16819b587e9d1f0f48142b3edacd3-m.png"
+    },{
+        game: "Tekken 8",
+        name: "Please don't tell my father.",
+        desc: "Won a Group Match.",
+        imag: "https://img.playstationtrophies.org/images/2024/01/24/trophy/f3e2ed6c1445c5eeb855a18ad6f57a43-m.png"
+    },{
+        game: "Warhammer 40,000: Space Marine 2",
+        name: "The Art of Dismemberment",
+        desc: "Perform [50] unique Finishers.",
+        imag: "https://img.playstationtrophies.org/images/2024/09/02/trophy/32486f03d3be50207715dc89e20fff48-m.png"
+    }]
+},{
     listName: "Aeirou's Virtual Murder Club",
     banner: "https://i.imgur.com/eZJLWU1.png",
     award: "https://i.imgur.com/G0DzSFM.jpg",
