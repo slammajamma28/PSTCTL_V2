@@ -1059,7 +1059,7 @@ var lists = [{
         desc: "Complete the Campaign on Regular",
         imag: "https://img.playstationtrophies.org/images/trophies/4305/dc9.jpg"
     },{
-		name: "Titanfall 2",
+		game: "Titanfall 2",
         name: "Every Nook and Cranny",
         desc: "Find All Collectables",
         imag: "https://img.playstationtrophies.org/images/trophies/4305/a73.jpg"
